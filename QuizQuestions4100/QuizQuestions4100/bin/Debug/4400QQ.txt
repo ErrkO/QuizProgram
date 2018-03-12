@@ -1,0 +1,895 @@
+Data anomaly is defined as the condition in which all of the data in the database are consistent with the real-world events and conditions?
+True
+false
+False
+true
+####
+Most data that can be encountered are best classified as _____?
+structured
+false
+semistructured
+true
+unstructured
+false
+historical
+false
+####
+The same data might be simultaneously structured and unstructured depending on the intended processing?
+True
+true
+False
+false
+####
+Data warehouse contains historical data obtained from the _____?
+operational databases
+true
+desktop database
+false
+enterprise databases
+false
+workgroup databases
+false
+####
+An operational database is sometimes referred to as an enterprise database?
+True
+false
+False
+true
+####
+Data is said to be verifiable if?
+the data always yields consistent results.
+true
+the data cannot be changed or manipulated.
+false
+the data is obtained from trusted sources.
+false
+the data is stored in different places within the database.
+false
+####
+A data warehouse can store data derived from many sources?
+True
+true
+False
+false
+####
+End-user data is _____?
+knowledge about the end users
+false
+raw facts of interest to the end user
+true
+information about a specific subject
+false
+accurate, relevant and timely information
+false
+####
+Which of the following is true of spreadsheet applications?
+They provide enhanced security and robust data sharing features.
+false
+They do not allow manipulation of data once entered.
+false
+They are a better alternative to databases.
+false
+They enhance the user's ability to understand the data.
+true
+####
+_____ provide a description of the data characteristics and the set of relationships that link the data found within the database?
+Queries
+false
+End-user data
+false
+Metadata
+true
+Schemas
+false
+####
+A _____ is a collection of related records?
+schema
+false
+field
+false
+column
+true
+file
+false
+####
+Data processing can be as simple as organizing data to reveal patterns?
+True
+true
+False
+false
+####
+Data constitute the building blocks of information?
+True
+true
+False
+false
+####
+Metadata describe the data characteristics and the set of relationships that links the data found within the database?
+True
+true
+False
+false
+####
+The only way to access the data in a database is through the DBMS?
+True
+true
+False
+false
+####
+An advantage of database systems is that you needn't perform frequent updates and apply latest patches?
+True
+false
+False
+true
+####
+_____ is defined as the condition in which all of the data in the database are consistent with the real-world events and conditions?
+Data integrity
+true
+Data anomaly
+false
+Data ubiquity
+false
+Data quality
+false
+####
+Structural dependence exists when it is possible to make changes in the file structure without affecting the application program’s ability to access the data?
+True
+false
+False
+true
+####
+_____ data exist in a format that does not lend itself to processing that yields information?
+Structured
+false
+Semistructured
+false
+Unstructured
+true
+Historical
+false
+####
+_____ is the body of information and facts about a specific subject?
+Validation
+false
+A format
+false
+Knowledge
+true
+A database
+false
+####
+A noun in a business rule translates to a(n) _____ in the data model?
+entity
+true
+attribute
+false
+relationship
+false
+constraint
+false
+####
+Which of the following types of HDFS nodes stores all the metadata about a file system?
+Data node
+false
+Client node
+false
+Name node
+true
+Map node
+false
+####
+The hierarchical model is software-independent?
+True
+false
+False
+true
+####
+Business rules must be rendered in writing?
+True
+true
+False
+false
+####
+In an SQL-based relational database, each table is dependent on every other table?
+True
+false
+False
+true
+####
+A(n) _______ enables a database administrator to describe schema components?
+extensible markup language (XML)
+false
+data  definition language (DDL)
+true
+unified modeling language (UML)
+false
+query language
+false
+####
+The object-oriented data model was developed in the _____?
+1960s
+false
+1970s
+false
+1980s
+true
+1990s
+false
+####
+A(n) _____ represents a particular type of object in the real world?
+attribute
+false
+entity
+true
+relationship
+false
+node
+false
+####
+Oracle 11g is an example of the _____?
+hierarchical model
+false
+file system data model
+false
+relational data model
+false
+XML/Hybrid data model
+true
+####
+NoSQL databases?
+are geared toward transaction consistency; not performance.
+false
+support only small amounts of sparse data.
+false
+are based on the relational model.
+false
+provide fault tolerance.
+true
+####
+Which of the following is true of NoSQL databases?
+They do not support distributed database architectures.
+false
+They are not based on the relational model.
+true
+They are geared toward transaction consistency rather than performance.
+false
+They do not support very large amounts of sparse data.
+false
+####
+Each row in the relational table is known as an entity instance or entity occurrence in the ER model?
+True
+true
+False
+false
+####
+A(n) _____ is bidirectional?
+attribute
+false
+entity
+false
+relationship
+true
+constraint
+false
+####
+Business rules apply to businesses and government groups, but not to other types of organizations such as religious groups or research laboratories?
+True
+false
+False
+true
+####
+In the _____ model, each parent can have many children, but each child has only one parent?
+hierarchical
+true
+network
+false
+relational
+false
+entity relationship
+false
+####
+One of the limitations of the _____ model is that there is a lack of standards?
+hierarchical
+true
+network
+false
+relational
+false
+entity relationship
+false
+####
+The external model is the representation of the database as “seen” by the DBMS?
+True
+false
+False
+true
+####
+In the context of data models, an entity is a person, place, thing, or event about which data will be collected and stored?
+True
+true
+False
+false
+####
+Which of the following is a disadvantage of the hierarchical data model?
+It does not promote data sharing.
+false
+It is not efficient with 1:M relationships.
+false
+It does not promote data integrity.
+false
+It does not have standards.
+true
+####
+A(n) _____’s main function is to help one understand the complexities of the real-world environment?
+node
+false
+entity
+false
+model
+true
+database
+false
+####
+If Tiny College has some departments that are classified as “research only” and do not offer courses, the COURSE entity of the college database would be _____ the DEPARTMENT entity?
+existence-dependent on
+false
+independent of
+false
+mandatory for
+false
+optional to
+true
+####
+A _____ attribute is one that cannot be subdivided?
+composite
+false
+simple
+true
+single-valued
+false
+multivalued
+false
+####
+If an entity can exist apart from all of its related entities, then it is existence-independent, and it is referred to as a(n) _____ entity?
+weak
+false
+alone
+false
+unary
+false
+strong
+true
+####
+A _____ relationship exists when three entities are associated?
+unary
+false
+strong
+false
+ternary
+true
+weak
+false
+####
+A relationship is an association between _____?
+objects
+false
+entities
+true
+databases
+false
+fields
+false
+####
+Composite attributes make it easier to facilitate detailed queries?
+True
+false
+False
+true
+####
+A weak relationship exists if the primary key of the related entity contains at least one primary key component of the parent entity?
+True
+false
+False
+true
+####
+A(n) _____ is the set of possible values for a given attribute?
+domain
+true
+range
+false
+identifier
+false
+key
+false
+####
+In Chen notation, there is no way to represent cardinality?
+True
+false
+False
+true
+####
+Referential integrity and participation are both bidirectional, meaning that they must be addressed in both directions along a relationship?
+True
+false
+False
+true
+####
+To simplify the conceptual design, most higher-order relationships are decomposed into appropriate equivalent _____ relationships whenever possible?
+unary
+false
+binary
+true
+strong
+false
+weak
+false
+####
+A _____ relationship exists when an association is maintained within a single entity?
+unary
+true
+ternary
+false
+strong
+false
+weak
+false
+####
+Connectivities and cardinalities are established by concise statements known as business rules?
+True
+true
+False
+false
+####
+The decision to store _____ attributes in database tables depends on the processing requirements and the constraints placed on a particular application?
+multivalued
+false
+derived
+true
+single-valued
+false
+composite
+false
+####
+In a 1:M relationship, to avoid the possibility of referential integrity errors, the data of the "1" side must be loaded first?
+True
+true
+False
+false
+####
+An entity in the entity relationship model corresponds to a table in the relational environment?
+True
+true
+False
+false
+####
+The first step in building an entity-relationship diagram (ERD) is _____?
+developing the initial ERD
+false
+creating a detailed narrative of the organization’s description of operations
+true
+identifying the attributes and primary keys that adequately describe the entities
+false
+identifying the business rules based on the description of operations
+false
+####
+In the entity relationship diagram (ERD), cardinality is indicated using the _____ notation, where max is the maximum number of associated entities and min represents the minimum number of associated entities?
+(max, min)
+false
+(min, max)
+true
+[min ??? max]
+false
+{min|max}
+false
+####
+The Crow's Foot notation easily identifies multivalued attributes?
+True
+false
+False
+true
+####
+The conceptual model can handle _____ relationships and multivalued attributes?
+1:1
+false
+M:N
+true
+1:M
+false
+1:N
+false
+####
+A _____ key is a real-world, generally accepted identifier used to uniquely identify real-world objects?
+primary
+false
+natural
+true
+foreign
+false
+surrogate
+false
+####
+_____ keys work with primary keys to properly implement relationships in the relational model?
+Foreign
+true
+Composite
+false
+Natural
+false
+Surrogate
+false
+####
+Overlapping subtypes are subtypes that contain a unique subset of the supertype entity set?
+True
+false
+False
+true
+####
+The preferred placement for a foreign key when working with a 1:1 relationship is to _____?
+use the same primary key for both entities
+false
+create a bridge entity
+false
+place the foreign key in one of the entities
+true
+place the surrogate key in both entities
+false
+####
+At the implementation level, the supertype and its subtype(s) depicted in the specialization hierarchy maintain a 1:1 relationship?
+True
+true
+False
+false
+####
+The property of a subtype discriminator enables an entity supertype to inherit the attributes and relationships of the subtype?
+True
+false
+False
+true
+####
+The “_____” characteristic of a primary key states that the selected primary key must not be composed of any attribute(s) that might be considered a violation?
+unique values
+false
+nonintelligent
+false
+preferably single-attribute
+false
+security-compliant
+true
+####
+According to the “preferably single-attribute” characteristic of a primary key, the primary key?
+must be able to guarantee unique attribute values. 
+false
+should have the minimum number of attributes possible. 
+true
+should have embedded semantic meaning associated with each attribute.
+false
+must be composed of attributes that are free from security risks or violations.
+false
+####
+If one exists, a data modeler uses a _____ as the primary key of the entity being modeled?
+foreign key
+false
+combination key
+false
+surrogate key
+false
+natural identifier
+true
+####
+_____ is a generic entity type that is related to one or more entity subtypes?
+A subtype discriminator
+false
+Inheritance
+false
+A specialization hierarchy
+false
+An entity supertype
+true
+####
+When selecting a foreign key placement for a 1:1 relationship, place the PK of the entity on the mandatory side in the entity on the optional side as a FK, and make the FK mandatory when _____?
+one side is mandatory and the other side is optional
+true
+one side participates in another relationship
+false
+both sides are optional
+false
+both sides are mandatory
+false
+####
+The “_____” characteristic of a primary key states that the primary key must uniquely identify each entity instance, must be able to guarantee unique values, and must not contain nulls?
+unique values
+true
+nonintelligent
+false
+preferably single-attribute
+false
+security-complaint
+false
+####
+_____ is the bottom-up process of identifying a higher-level, more generic entity supertype from lower-level entity subtypes?
+Specialization
+false
+Generalization
+true
+Normalization
+false
+Total completeness
+false
+####
+One important inheritance characteristic is that all entity subtypes inherit their primary key attribute from their supertype?
+True
+true
+False
+false
+####
+A _____ occurs when there is one entity in two 1:M relationships to other entities, thus producing an association among the other entities that is not expressed in the model?
+surrogate primary key
+false
+time-variant data
+false
+design trap
+false
+fan trap
+true
+####
+A total completeness constraint is represented by _____?
+a smaller circle inside a bigger circle
+false
+a rhombus inside a circle
+false
+a double horizontal line under a circle
+true
+a single horizontal line above a circle
+false
+####
+The most important characteristic of an entity is its _____ key, used to uniquely identify each entity instance?
+primary
+true
+natural
+false
+foreign
+false
+surrogate
+false
+####
+A subtype contains attributes that are common to all of its supertypes?
+True
+false
+False
+true
+####
+At the implementation level, the supertype and its subtype(s) depicted in a specialization hierarchy maintain a(n) _____ relationship?
+self-referencing
+false
+1:1
+true
+1:M
+false
+M:N
+false
+####
+The function of the primary key is to describe an entity? 
+True
+false
+False
+true
+####
+The COMMIT command does not permanently save all changes? In order to do that, you must use SAVE?
+True
+false
+False
+true
+####
+The SQL command that allows a user to list the contents of a table is _____?
+INSERT
+false
+SELECT
+true
+COMMIT
+false
+UPDATE
+false
+####
+A database language enables the user to perform complex queries designed to transform the raw data into useful information?
+True
+true
+False
+false
+####
+A table can be deleted from the database bu using the ___ command?
+DROP TABLE
+true
+DELETE TABLE
+false
+MODIFY TABLE
+false
+ERASE TABLE
+false
+####
+Oracle users can use the Access QBE (query by example) query generator?
+True
+false
+False
+true
+####
+The CHECK constraint is used to define a condition for the values that the attribute domain cannot have?
+True
+false
+False
+true
+####
+The special operator used to check whether an attribute value matches a given string pattern is _____?
+BETWEEN
+false
+IS NULL
+false
+LIKE
+true
+IN
+false
+####
+The special operator used to check whether a subquery returns any rows is _____?
+BETWEEN
+false
+EXISTS
+true
+LIKE
+false
+IN
+false
+####
+All SQL commands must be issued on a single line?
+True
+false
+False
+true
+####
+You can select partial table contents by naming the desired fields and by placing restrictions on the rows to be included in the output?
+True
+true
+False
+false
+####
+The SQL data manipulation command HAVING?
+restricts the selection of rows based on a conditional expression
+false
+restricts the selection of grouped rows based on a condition
+true
+modifies an attribute’s values in one or more table’s rows
+false
+groups the selected rows based on one or more attributes
+false
+####
+The COUNT function is designed to tally the number of non-null "values" of an attribute, and is often used in conjunction with the DISTINCT clause?
+True
+true
+False
+false
+####
+Date procedures are often more software-specific than other SQL procedures?
+True
+true
+False
+false
+####
+According to the rules of precedence, which of the following computations should be completed first?
+Performing additions and subtractions
+false
+Performing multiplications and divisions
+false
+Performing operations within parentheses
+true
+Performing power operations
+false
+####
+The SQL aggregate function that gives the number of rows containing non-null values for a given column is _____?
+COUNT
+true
+MIN
+false
+MAX
+false
+SUM
+false
+####
+You cannot insert a row containing a null attribute value using SQL?
+True
+false
+False
+true
+####
+The result of analysis phase of the Systems Development Life Cycle (SDLC) should be a better understanding of the system's functional areas, actual and potential problems, and opportunities?
+True
+true
+False
+false
+####
+The term “database development” is used to describe the process of database design and implementation?
+True
+true
+False
+false
+####
+During the implementation phase of the Systems Development Life Cycle (SDLC), the hardware, database management system (DBMS) software, and application programs are installed, and the database design is implemented?
+True
+true
+False
+false
+####
+In the detailed systems design phase of the Systems Development Life Cycle (SDLC), steps are laid out for the conversion of a database from an old system to a new system?
+True
+true
+False
+false
+####
+In the Systems Development Life Cycle (SDLC), after testing is concluded, end-user training is not necessary?
+True
+false
+False
+true
+####
+_____ can render data useless to unauthorized users who might have violated some of the database security layers?
+Data encryption
+true
+Access rights
+false
+Physical security
+false
+Password security
+false
+####
+The assignment of access rights may restrict operations on predetermined objects such as databases, tables, views, queries, and reports?
+True
+true
+False
+false
+####
+The Systems Development Life Cycle (SDLC) traces the history of an information system?
+True
+true
+False
+false
+####
+Systems analysis establishes the need for an information system and its extent?
+True
+true
+False
+false
+####
+In a(n) _____, only the objects that have been updated or modified since the last full backup are backed up?
+transaction log backup
+false
+conservative backup 
+false
+differential backup
+true
+adaptive backup
+false
+####
+Decentralized design is typical of relatively simple, small databases and can be successfully done by a single person?
+True
+false
+False
+true
+####
+In the Systems Development Life Cycle(SDLC), the design of the system's processes begins in the detailed systems design phase?
+True
+false
+False
+true
+####
+The analysis phase of the Systems Development Life Cycle (SDLC) involves a cycle of coding, testing, and debugging?
+True
+false
+False
+true
+####
+In the context of the database design process, the conceptual design step that determines end-user views, outputs, and transaction-processing requirements is _____?
+data analysis and requirements
+true
+entity relationship modeling and normalization
+false
+data model verification
+true
+distributed database design
+false

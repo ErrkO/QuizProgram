@@ -1,0 +1,1940 @@
+Question 1		5 / 5 points
+Data anomaly is defined as the condition in which all of the data in the database are consistent with the real-world events and conditions?
+
+	True
+`	
+	False
+Question 2		5 / 5 points
+Most data that can be encountered are best classified as _____?
+
+	
+structured
+`	
+semistructured
+	
+unstructured
+	
+historical
+Question 3		5 / 5 points
+The same data might be simultaneously structured and unstructured depending on the intended processing?
+
+`
+	True
+	False
+Question 4		5 / 5 points
+Data warehouse contains historical data obtained from the _____?
+
+`	
+operational databases
+	
+desktop database
+	
+enterprise databases
+	
+workgroup databases
+Question 5		5 / 5 points
+An operational database is sometimes referred to as an enterprise database?
+
+	True
+`	
+	False
+Question 6		5 / 5 points
+Data is said to be verifiable if:
+
+`	
+the data always yields consistent results.
+	
+the data cannot be changed or manipulated.
+	
+the data is obtained from trusted sources.
+	
+the data is stored in different places within the database.
+Question 7		5 / 5 points
+A data warehouse can store data derived from many sources?
+
+`
+	True
+	False
+Question 8		5 / 5 points
+End-user data is _____?
+
+	
+knowledge about the end users
+`	
+raw facts of interest to the end user
+	
+information about a specific subject
+	
+accurate, relevant and timely information
+Question 9		5 / 5 points
+Which of the following is true of spreadsheet applications?
+
+	
+They provide enhanced security and robust data sharing features.
+	
+They do not allow manipulation of data once entered.
+	
+They are a better alternative to databases.
+`	
+They enhance the user's ability to understand the data.
+Question 10		5 / 5 points
+_____ provide a description of the data characteristics and the set of relationships that link the data found within the database?
+
+	
+Queries
+	
+End-user data
+`	
+Metadata
+	
+Schemas
+Question 11		0 / 5 points
+A _____ is a collection of related records?
+
+	
+schema
+	
+field
+`	
+column
+	
+file
+Question 12		5 / 5 points
+Data processing can be as simple as organizing data to reveal patterns?
+
+`
+	True
+	False
+Question 13		5 / 5 points
+Data constitute the building blocks of information?
+
+`
+	True
+	False
+Question 14		5 / 5 points
+Metadata describe the data characteristics and the set of relationships that links the data found within the database?
+
+`
+	True
+	False
+Question 15		5 / 5 points
+The only way to access the data in a database is through the DBMS?
+
+`
+	True
+	False
+Question 16		0 / 5 points
+An advantage of database systems is that you needn't perform frequent updates and apply latest patches?
+
+	True
+`
+	False
+Question 17		5 / 5 points
+_____ is defined as the condition in which all of the data in the database are consistent with the real-world events and conditions?
+
+`	
+Data integrity
+	
+Data anomaly
+	
+Data ubiquity
+	
+Data quality
+Question 18		5 / 5 points
+Structural dependence exists when it is possible to make changes in the file structure without affecting the application program’s ability to access the data?
+
+	True
+`
+	False
+Question 19		5 / 5 points
+_____ data exist in a format that does not lend itself to processing that yields information?
+
+	
+Structured
+	
+Semistructured
+`	
+Unstructured
+	
+Historical
+Question 20		5 / 5 points
+_____ is the body of information and facts about a specific subject?
+
+	
+Validation
+	
+A format
+`	
+Knowledge
+	
+A database
+
+Question 1		5 / 5 points
+A noun in a business rule translates to a(n) _____ in the data model?
+
+`	
+entity
+	
+attribute
+	
+relationship
+	
+constraint
+Question 2		5 / 5 points
+Which of the following types of HDFS nodes stores all the metadata about a file system?
+
+	
+Data node
+	
+Client node
+`	
+Name node
+	
+Map node
+Question 3		5 / 5 points
+The hierarchical model is software-independent?
+
+	True
+`
+	False
+Question 4		5 / 5 points
+Business rules must be rendered in writing?
+
+`
+	True
+	False
+Question 5		5 / 5 points
+In an SQL-based relational database, each table is dependent on every other table?
+
+	True
+`
+	False
+Question 6		5 / 5 points
+A(n) _______ enables a database administrator to describe schema components?
+
+	
+extensible markup language (XML)
+`	
+data  definition language (DDL)
+	
+unified modeling language (UML)
+	
+query language
+Question 7		5 / 5 points
+The object-oriented data model was developed in the _____?
+
+	
+1960s
+	
+1970s
+`	
+1980s
+	
+1990s
+Question 8		5 / 5 points
+A(n) _____ represents a particular type of object in the real world?
+
+	
+attribute
+`	
+entity
+	
+relationship
+	
+node
+Question 9		5 / 5 points
+Oracle 11g is an example of the _____?
+
+	
+hierarchical model
+	
+file system data model
+	
+relational data model
+`	
+XML/Hybrid data model
+Question 10		5 / 5 points
+NoSQL databases:
+
+	
+are geared toward transaction consistency; not performance.
+	
+support only small amounts of sparse data.
+	
+are based on the relational model.
+`	
+provide fault tolerance.
+Question 11		5 / 5 points
+Which of the following is true of NoSQL databases?
+
+	
+They do not support distributed database architectures.
+`	
+They are not based on the relational model.
+	
+They are geared toward transaction consistency rather than performance.
+	
+They do not support very large amounts of sparse data.
+Question 12		5 / 5 points
+Each row in the relational table is known as an entity instance or entity occurrence in the ER model?
+
+
+
+
+`
+	True
+	False
+Question 13		5 / 5 points
+A(n) _____ is bidirectional?
+
+	
+attribute
+	
+entity
+`	
+relationship
+	
+constraint
+Question 14		5 / 5 points
+Business rules apply to businesses and government groups, but not to other types of organizations such as religious groups or research laboratories?
+
+	True
+`
+	False
+Question 15		5 / 5 points
+In the _____ model, each parent can have many children, but each child has only one parent?
+
+`	
+hierarchical
+	
+network
+	
+relational
+	
+entity relationship
+Question 16		5 / 5 points
+One of the limitations of the _____ model is that there is a lack of standards?
+
+`	
+hierarchical
+	
+network
+	
+relational
+	
+entity relationship
+Question 17		5 / 5 points
+The external model is the representation of the database as “seen” by the DBMS?
+
+	True
+`
+	False
+Question 18		5 / 5 points
+In the context of data models, an entity is a person, place, thing, or event about which data will be collected and stored?
+
+`
+	True
+	False
+Question 19		5 / 5 points
+Which of the following is a disadvantage of the hierarchical data model?
+
+	
+It does not promote data sharing.
+	
+It is not efficient with 1:M relationships.
+	
+It does not promote data integrity.
+`	
+It does not have standards.
+Question 20		5 / 5 points
+A(n) _____’s main function is to help one understand the complexities of the real-world environment?
+
+	
+node
+	
+entity
+`	
+model
+	
+database
+
+Question 1		5 / 5 points
+If Tiny College has some departments that are classified as “research only” and do not offer courses, the COURSE entity of the college database would be _____ the DEPARTMENT entity?
+
+	
+existence-dependent on
+	
+independent of
+	
+mandatory for
+`	
+optional to
+Question 2		5 / 5 points
+A _____ attribute is one that cannot be subdivided?
+
+	
+composite
+`	
+simple
+	
+single-valued
+	
+multivalued
+Question 3		5 / 5 points
+If an entity can exist apart from all of its related entities, then it is existence-independent, and it is referred to as a(n) _____ entity?
+
+	
+weak
+	
+alone
+	
+unary
+`	
+strong
+Question 4		5 / 5 points
+A _____ relationship exists when three entities are associated?
+
+	
+unary
+	
+strong
+`	
+ternary
+	
+weak
+Question 5		5 / 5 points
+A relationship is an association between _____?
+
+	
+objects
+`	
+entities
+	
+databases
+	
+fields
+Question 6		5 / 5 points
+Composite attributes make it easier to facilitate detailed queries?
+
+	True
+`	
+	False
+Question 7		5 / 5 points
+A weak relationship exists if the primary key of the related entity contains at least one primary key component of the parent entity?
+
+	True
+`	
+	False
+Question 8		5 / 5 points
+A(n) _____ is the set of possible values for a given attribute?
+
+`	
+domain
+	
+range
+	
+identifier
+	
+key
+Question 9		5 / 5 points
+In Chen notation, there is no way to represent cardinality?
+
+	True
+`
+	False
+Question 10		5 / 5 points
+Referential integrity and participation are both bidirectional, meaning that they must be addressed in both directions along a relationship?
+
+	True
+`
+	False
+Question 11		5 / 5 points
+To simplify the conceptual design, most higher-order relationships are decomposed into appropriate equivalent _____ relationships whenever possible?
+
+	
+unary
+`	
+binary
+	
+strong
+	
+weak
+Question 12		5 / 5 points
+A _____ relationship exists when an association is maintained within a single entity?
+
+`	
+unary
+	
+ternary
+	
+strong
+	
+weak
+Question 13		5 / 5 points
+Connectivities and cardinalities are established by concise statements known as business rules?
+
+`
+	True
+	False
+Question 14		5 / 5 points
+The decision to store _____ attributes in database tables depends on the processing requirements and the constraints placed on a particular application?
+
+	
+multivalued
+`	
+derived
+	
+single-valued
+	
+composite
+Question 15		5 / 5 points
+In a 1:M relationship, to avoid the possibility of referential integrity errors, the data of the "1" side must be loaded first?
+
+`
+	True
+	False
+Question 16		5 / 5 points
+An entity in the entity relationship model corresponds to a table in the relational environment?
+
+`
+	True
+	False
+Question 17		5 / 5 points
+The first step in building an entity-relationship diagram (ERD) is _____?
+
+	
+developing the initial ERD
+`	
+creating a detailed narrative of the organization’s description of operations
+	
+identifying the attributes and primary keys that adequately describe the entities
+	
+identifying the business rules based on the description of operations
+Question 18		5 / 5 points
+In the entity relationship diagram (ERD), cardinality is indicated using the _____ notation, where max is the maximum number of associated entities and min represents the minimum number of associated entities?
+
+	
+(max, min)
+`	
+(min, max)
+	
+[min ??? max]
+	
+{min|max}
+Question 19		5 / 5 points
+The Crow's Foot notation easily identifies multivalued attributes?
+
+	True
+`
+	False
+Question 20		5 / 5 points
+The conceptual model can handle _____ relationships and multivalued attributes?
+
+	
+1:1
+`	
+M:N
+	
+1:M
+	
+1:N
+Question 1		5 / 5 points
+A _____ key is a real-world, generally accepted identifier used to uniquely identify real-world objects?
+
+	
+primary
+`	
+natural
+	
+foreign
+	
+surrogate
+Question 2		5 / 5 points
+_____ keys work with primary keys to properly implement relationships in the relational model?
+
+`	
+Foreign
+	
+Composite
+	
+Natural
+	
+Surrogate
+Question 3		5 / 5 points
+Overlapping subtypes are subtypes that contain a unique subset of the supertype entity set?
+
+	True
+`
+	False
+Question 4		5 / 5 points
+The preferred placement for a foreign key when working with a 1:1 relationship is to _____?
+
+	
+use the same primary key for both entities
+	
+create a bridge entity
+`	
+place the foreign key in one of the entities
+	
+place the surrogate key in both entities
+Question 5		5 / 5 points
+At the implementation level, the supertype and its subtype(s) depicted in the specialization hierarchy maintain a 1:1 relationship?
+
+`
+	True
+	False
+Question 6		5 / 5 points
+The property of a subtype discriminator enables an entity supertype to inherit the attributes and relationships of the subtype?
+
+	True
+`
+	False
+Question 7		5 / 5 points
+The “_____” characteristic of a primary key states that the selected primary key must not be composed of any attribute(s) that might be considered a violation?
+
+	
+unique values
+	
+nonintelligent
+	
+preferably single-attribute
+`	
+security-compliant
+Question 8		5 / 5 points
+According to the “preferably single-attribute” characteristic of a primary key, the primary key?
+
+	
+must be able to guarantee unique attribute values. 
+`	
+should have the minimum number of attributes possible. 
+	
+should have embedded semantic meaning associated with each attribute.
+	
+must be composed of attributes that are free from security risks or violations.
+Question 9		5 / 5 points
+If one exists, a data modeler uses a _____ as the primary key of the entity being modeled?
+
+	
+foreign key
+	
+combination key
+	
+surrogate key
+`	
+natural identifier
+Question 10		5 / 5 points
+_____ is a generic entity type that is related to one or more entity subtypes?
+
+	
+A subtype discriminator
+	
+Inheritance
+	
+A specialization hierarchy
+`	
+An entity supertype
+Question 11		5 / 5 points
+When selecting a foreign key placement for a 1:1 relationship, place the PK of the entity on the mandatory side in the entity on the optional side as a FK, and make the FK mandatory when _____?
+
+`	
+one side is mandatory and the other side is optional
+	
+one side participates in another relationship
+	
+both sides are optional
+	
+both sides are mandatory
+Question 12		5 / 5 points
+The “_____” characteristic of a primary key states that the primary key must uniquely identify each entity instance, must be able to guarantee unique values, and must not contain nulls?
+
+`	
+unique values
+	
+nonintelligent
+	
+preferably single-attribute
+	
+security-complaint
+Question 13		5 / 5 points
+_____ is the bottom-up process of identifying a higher-level, more generic entity supertype from lower-level entity subtypes?
+
+	
+Specialization
+`	
+Generalization
+	
+Normalization
+	
+Total completeness
+Question 14		5 / 5 points
+One important inheritance characteristic is that all entity subtypes inherit their primary key attribute from their supertype?
+
+`
+	True
+	False
+Question 15		5 / 5 points
+A _____ occurs when there is one entity in two 1:M relationships to other entities, thus producing an association among the other entities that is not expressed in the model?
+
+	
+surrogate primary key
+	
+time-variant data
+	
+design trap
+`	
+fan trap
+Question 16		5 / 5 points
+A total completeness constraint is represented by _____?
+
+	
+a smaller circle inside a bigger circle
+	
+a rhombus inside a circle
+`	
+a double horizontal line under a circle
+	
+a single horizontal line above a circle
+Question 17		5 / 5 points
+The most important characteristic of an entity is its _____ key, used to uniquely identify each entity instance?
+
+`	
+primary
+	
+natural
+	
+foreign
+	
+surrogate
+Question 18		0 / 5 points
+A subtype contains attributes that are common to all of its supertypes?
+
+	True
+`
+	False
+Question 19		5 / 5 points
+At the implementation level, the supertype and its subtype(s) depicted in a specialization hierarchy maintain a(n) _____ relationship?
+
+	
+self-referencing
+`	
+1:1
+	
+1:M
+	
+M:N
+Question 20		0 / 5 points
+The function of the primary key is to describe an entity? 
+
+	True
+`
+	False
+Question 1		5 / 5 points
+The COMMIT command does not permanently save all changes? In order to do that, you must use SAVE?
+
+	True
+`
+	False
+Question 2		5 / 5 points
+The SQL query to output the contents of the EMPLOYEE table sorted by last name, first name, and initial is _____?
+
+	
+SELECT EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_AREACODE, EMP_PHONE\nFROM EMPLOYEE\n`LIST BY EMP_LNAME, EMP_FNAME, EMP_INITIAL;
+`	
+SELECT EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_AREACODE, EMP_PHONE\nFROM EMPLOYEE\nORDER BY EMP_LNAME, EMP_FNAME, EMP_INITIAL;
+	
+SELECT EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_AREACODE, EMP_PHONE\nFROM EMPLOYEE\nDISPLAY BY EMP_LNAME, EMP_FNAME, EMP_INITIAL;
+	
+SELECT EMP_LNAME, EMP_FNAME, EMP_INITIAL, EMP_AREACODE, EMP_PHONE\nFROM EMPLOYEE\nSEQUENCE BY EMP_LNAME, EMP_FNAME, EMP_INITIAL;
+
+Question 3		5 / 5 points
+The SQL command that allows a user to list the contents of a table is _____?
+
+	
+INSERT
+`	
+SELECT
+	
+COMMIT
+	
+UPDATE
+Question 4		5 / 5 points
+A database language enables the user to perform complex queries designed to transform the raw data into useful information?
+
+`
+	True
+	False
+Question 5		5 / 5 points
+A table can be deleted from the database bu using the ___ command?
+
+`	
+DROP TABLE
+	
+DELETE TABLE
+	
+MODIFY TABLE
+	
+ERASE TABLE
+Question 6		5 / 5 points
+Oracle users can use the Access QBE (query by example) query generator?
+
+	True
+`
+	False
+Question 7		5 / 5 points
+The CHECK constraint is used to define a condition for the values that the attribute domain cannot have?
+
+	True
+`
+	False
+Question 8		5 / 5 points
+Which of the following queries will output the table contents when the value of V_CODE is equal to 21344?
+
+	
+SELECT P_DESCRIPT, P_INDATE, P_PRICE, V_CODE\nFROM PRODUCT\nWHERE V_CODE <> 21344;
+	
+SELECT P_DESCRIPT, P_INDATE, P_PRICE, V_CODE\nFROM PRODUCT\nWHERE V_CODE <= 21344;
+`	
+SELECT P_DESCRIPT, P_INDATE, P_PRICE, V_CODE\nFROM PRODUCT\nWHERE V_CODE = 21344;
+	
+SELECT P_DESCRIPT, P_INDATE, P_PRICE, V_CODE\nFROM PRODUCT\nWHERE V_CODE => 21344;
+
+Question 9		5 / 5 points
+The special operator used to check whether an attribute value matches a given string pattern is _____?
+
+	
+BETWEEN
+	
+IS NULL
+`	
+LIKE
+	
+IN
+Question 10		5 / 5 points
+The special operator used to check whether a subquery returns any rows is _____?
+
+	
+BETWEEN
+`	
+EXISTS
+	
+LIKE
+	
+IN
+Question 11		0 / 5 points
+All SQL commands must be issued on a single line?
+
+	True
+`
+	False
+Question 12		5 / 5 points
+You can select partial table contents by naming the desired fields and by placing restrictions on the rows to be included in the output?
+
+`
+	True
+	False
+Question 13		5 / 5 points
+An example of a command a user would use when making changes to a PRODUCT table is _____?
+
+	
+CHANGE PRODUCT\nSET P_INDATE = '18-JAN-2004'\nWHERE P_CODE = '13-Q2/P2';
+	
+ROLLBACK PRODUCT\nSET P_INDATE = '18-JAN-2004'\nWHERE P_CODE = '13-Q2/P2';
+	
+EDIT PRODUCT\nSET P_INDATE = '18-JAN-2004'\nWHERE P_CODE = '13-Q2/P2';
+`	
+UPDATE PRODUCT\nSET P_INDATE = '18-JAN-2004'\nWHERE P_CODE = '13-Q2/P2';
+
+Question 14		5 / 5 points
+The query to join the P_DESCRIPT and P_PRICE fields from the PRODUCT table and the V_NAME, V_AREACODE, V_PHONE, and V_CONTACT fields from the VENDOR table where the values of V_CODE match is _____?
+
+	
+SELECT P_DESCRIPT, P_PRICE, V_NAME, V_CONTACT, V_AREACODE, V_PHONE\nFROM PRODUCT, VENDOR\nWHERE PRODUCT?V_CODE <> VENDOR?V_CODE;
+`	
+SELECT P_DESCRIPT, P_PRICE, V_NAME, V_CONTACT, V_AREACODE, V_PHONE\nFROM PRODUCT, VENDOR\nWHERE PRODUCT?V_CODE = VENDOR?V_CODE;
+	
+SELECT P_DESCRIPT, P_PRICE, V_NAME, V_CONTACT, V_AREACODE, V_PHONE\nFROM PRODUCT, VENDOR\nWHERE PRODUCT?V_CODE <= VENDOR?V_CODE;
+	
+SELECT P_DESCRIPT, P_PRICE, V_NAME, V_CONTACT, V_AREACODE, V_PHONE\nFROM PRODUCT, VENDOR\nWHERE PRODUCT?V_CODE => VENDOR?V_CODE;
+
+Question 15		5 / 5 points
+The SQL data manipulation command HAVING?
+
+	
+restricts the selection of rows based on a conditional expression
+`	
+restricts the selection of grouped rows based on a condition
+	
+modifies an attribute’s values in one or more table’s rows
+	
+groups the selected rows based on one or more attributes
+Question 16		5 / 5 points
+The COUNT function is designed to tally the number of non-null "values" of an attribute, and is often used in conjunction with the DISTINCT clause?
+
+`
+	True
+	False
+Question 17		5 / 5 points
+Date procedures are often more software-specific than other SQL procedures?
+
+`
+	True
+	False
+Question 18		5 / 5 points
+According to the rules of precedence, which of the following computations should be completed first?
+
+	
+Performing additions and subtractions
+	
+Performing multiplications and divisions
+`	
+Performing operations within parentheses
+	
+Performing power operations
+Question 19		5 / 5 points
+The SQL aggregate function that gives the number of rows containing non-null values for a given column is _____?
+
+`	
+COUNT
+	
+MIN
+	
+MAX
+	
+SUM
+Question 20		5 / 5 points
+You cannot insert a row containing a null attribute value using SQL?
+
+	True
+`
+	False
+Question 1		5 / 5 points
+The result of analysis phase of the Systems Development Life Cycle (SDLC) should be a better understanding of the system's functional areas, actual and potential problems, and opportunities?
+
+`
+	True
+	False
+Question 2		5 / 5 points
+The term “database development” is used to describe the process of database design and implementation?
+
+`
+	True
+	False
+Question 3		5 / 5 points
+During the implementation phase of the Systems Development Life Cycle (SDLC), the hardware, database management system (DBMS) software, and application programs are installed, and the database design is implemented?
+
+`
+	True
+	False
+Question 4		5 / 5 points
+In the detailed systems design phase of the Systems Development Life Cycle (SDLC), steps are laid out for the conversion of a database from an old system to a new system?
+
+`
+	True
+	False
+Question 5		5 / 5 points
+In the Systems Development Life Cycle (SDLC), after testing is concluded, end-user training is not necessary?
+
+	True
+`
+	False
+Question 6		5 / 5 points
+_____ can render data useless to unauthorized users who might have violated some of the database security layers?
+
+`	
+Data encryption
+	
+Access rights
+	
+Physical security
+	
+Password security
+Question 7		5 / 5 points
+The assignment of access rights may restrict operations on predetermined objects such as databases, tables, views, queries, and reports?
+
+`
+	True
+	False
+Question 8		5 / 5 points
+The Systems Development Life Cycle (SDLC) traces the history of an information system?
+
+`
+	True
+	False
+Question 9		5 / 5 points
+Systems analysis establishes the need for an information system and its extent?
+
+`
+	True
+	False
+Question 10		5 / 5 points
+In a(n) _____, only the objects that have been updated or modified since the last full backup are backed up?
+
+	
+transaction log backup
+	
+conservative backup 
+`	
+differential backup
+	
+adaptive backup
+Question 11		5 / 5 points
+Decentralized design is typical of relatively simple, small databases and can be successfully done by a single person?
+
+	True
+`
+	False
+Question 12		0 / 5 points
+In the Systems Development Life Cycle(SDLC), the design of the system's processes begins in the detailed systems design phase?
+
+	True
+`
+	False
+Question 13		5 / 5 points
+The analysis phase of the Systems Development Life Cycle (SDLC) involves a cycle of coding, testing, and debugging?
+
+	True
+`
+	False
+Question 14		0 / 5 points
+In the context of the database design process, the conceptual design step that determines end-user views, outputs, and transaction-processing requirements is _____?
+
+`	
+data analysis and requirements
+	
+entity relationship modeling and normalization
+`	
+data model verification
+	
+distributed database design
+Question 15		5 / 5 points
+Which of the following is a hardware-induced database failure?
+
+`	
+Memory chip errors
+	
+Viruses
+	
+Malware
+	
+Abortion due to deadlock
+Question 16		5 / 5 points
+After the initial declarations in Database Life Cycle (DBLC), the database designer must carefully probe in order to generate additional information that will help define the problem within the larger framework of company operations?
+
+`
+	True
+	False
+Question 17		0 / 5 points
+In the context of the database design process, the conceptual design step that defines the fragmentation and allocation strategy is _____?
+
+	
+database analysis and requirements
+	
+ER modeling and normalization
+	
+data model verification
+`	
+distributed database design
+Question 18		5 / 5 points
+The database contents might be loaded interactively or in batch mode using a variety of methods and devices including customized user programs?
+
+`
+	True
+	False
+Question 19		5 / 5 points
+Coding, testing, and debugging are part of the _____ phase of the Systems Development Life Cycle (SDLC)?
+
+	
+planning
+	
+analysis
+	
+detailed systems design
+`	
+implementation
+Question 20		5 / 5 points
+Data integrity is enforced by the database management system (DBMS) through the proper use of primary and foreign key rules?
+
+`
+	True
+	False	
+
+Question 1		5 / 5 points
+The implicit beginning of a transaction is ___
+
+	
+when database is started
+	
+when a table is accessed for the first time
+`	
+when the first SQL statement is encountered
+	
+when the COMMIT command is issued
+Question 2		5 / 5 points
+Although the DBMS is designed to recover a database to a previous consistent state when an interruption prevents the completion of a required set of transactions, the transactions themselves are defined by the end user or programmer and must be semantically correct?
+
+`
+	True
+	False
+Question 3		5 / 5 points
+When using an optimistic approach, during the read phase, a transaction reads the database, executes the needed computations, and makes the updates to a private copy of the database values?
+
+`
+	True
+	False
+Question 4		0 / 5 points
+The ANSI ha define standard that govern SQL database transactions? Of the following events, which is defined by ANSI as being equivalent to a ROLLBACK?
+
+	
+​Five SQL statements are executed?
+	
+The end of a program is successfully reached?
+`	
+The program is abnormally terminated?
+	
+The database is shut down for maintenance?
+Question 5		5 / 5 points
+Lock_____ indicates the level of lock use?
+
+`	
+granularity
+	
+shrinking
+	
+growing
+	
+serializability
+Question 6		5 / 5 points
+A(n) ____ phase in a two phase lock is when  transaction releases all locks and cannot obtain any new lock?
+
+	
+growing
+`	
+shrinking 
+	
+locking
+	
+unlocking
+Question 7		5 / 5 points
+Transaction is a ____ unit of work that must be either entirely completed or aborted​?
+
+	
+​time
+	
+​practical
+`
+​logical
+	
+​physical
+Question 8		5 / 5 points
+A field-level lock allows concurrent transactions to access the same row, as long as they require the use of different fields within that row?
+
+`
+	True
+	False
+Question 9		5 / 5 points
+_____ means that data used during the execution of a transaction cannot be used by a second transaction until the first one is completed?
+
+	
+​Serializability 
+	
+Atomocity
+`	
+Isolation
+	
+​Time stamping
+Question 10		5 / 5 points
+The phenomenon of uncommitted data occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data—thus violating the isolation property of transactions?
+
+`
+	True
+	False
+Question 11		5 / 5 points
+A(n)_____ specifically reserves access to the transaction that locked the object?
+
+	
+shared lock
+`	
+exclusive lock
+	
+binary lock
+	
+deadlock
+Question 12		5 / 5 points
+In a page-level lock, the DBMS will lock an entire diskpage?
+
+`
+	True
+	False
+Question 13		5 / 5 points
+The multiuser DBMS must implement controls to ensure serializability and isolation of transactions, in addition to atomicity and durability, in order to guard the database's consistency and integrity?
+
+`
+	True
+	False
+Question 14		5 / 5 points
+In the optimistic approach, during the____ phase, a transaction scans the database, executes the needed computations, and makes the updates to a private copy of the database values?
+
+`	
+read
+	
+validation
+	
+write
+	
+shared
+Question 15		5 / 5 points
+A growing phase in a two-phase lock is when a transaction acquires all the required locks without locking any data?
+
+	True
+`
+	False
+Question 16		5 / 5 points
+Most real-world database transactions are formed by only one database request?
+
+	True
+`
+	False
+Question 17		5 / 5 points
+An optimistic approach is based on the assumption that the majority of the database operations do not conflict?
+
+`
+	True
+	False
+Question 18		5 / 5 points
+The _____ isolation level ensures that queries return consistent results?
+
+	
+read uncommitted
+	
+read committed
+	
+serializable
+`	
+repeatable read
+Question 19		5 / 5 points
+Time stamping demands a lot of system resources because many transactions might have to be stopped, rescheduled, and stamped? 
+
+`
+	True
+	False
+Question 20		5 / 5 points
+The serializable isolation level is the least restrictive level defined by the ANSI SQL standard?
+
+	True
+`
+	False	
+Question 1		5 / 5 points
+The LIKE conditional operator is used by the _____ OPERAND1?
+
+	
+P_PRICE
+	
+V_STATE
+	
+P_QOH
+`	
+V_CONTACT
+Question 2		5 / 5 points
+Automatic query optimization means that the?
+
+	
+optimization takes place at compilation time by the programmer
+`	
+DBMS finds the most cost-effective access path without user intervention
+	
+optimization process is scheduled and selected by the end user or programmer
+	
+database access strategy is defined when the program is executed
+Question 3		5 / 5 points
+On the server side, the database environment must be properly configured to respond to clients' requests in the fastest way possible, while making optimum use of existing resources? The activities required to achieve this goal are commonly referred to as _____ tuning?
+
+	
+client and server
+	
+database SQL
+	
+SQL performance
+`	
+DBMS performance
+Question 4		5 / 5 points
+The data cache caches system catalog data and the contents of the indexes?
+
+`
+	True
+	False
+Question 5		5 / 5 points
+A DBA determines the initial size of the data files that make up the database; however, as required, the data files can automatically expand in predefined increments known as _____?
+
+	
+procedure cache
+	
+buffer cache
+	
+supplements
+`	
+extends
+Question 6		5 / 5 points
+The DBMS _____ the data and sends the result set back to the client?
+
+	
+parses
+	
+executes
+`	
+fetches
+	
+processes
+Question 7		0 / 5 points
+To work with data, a DBMS must retrieve the data from _____ and place them in _____?
+
+	
+data files; procedure cache
+	
+RAM; data cache
+`	
+permanent storage; RAM
+	
+temporary files; procedure cache
+Question 8		0 / 5 points
+All transaction management commands are processed during the parsing and execution phases of query processing?
+
+`
+	True
+	False
+Question 9		5 / 5 points
+Indexes are very useful in small tables or tables with low sparsity?
+
+	True
+`
+	False
+Question 10		5 / 5 points
+The majority of primary memory resources will be allocated to the _____ cache?
+
+`	
+data
+	
+SQL
+	
+sort
+	
+optimizer
+Question 11		5 / 5 points
+An index scan is less efficient than a full table scan?
+
+	True
+`
+	False
+Question 12		5 / 5 points
+Knowing the sparsity of a column helps you decide whether the use of _____ is appropriate?
+
+	
+query processing
+	
+query optimization
+`	
+an index
+	
+a full table scan
+Question 13		5 / 5 points
+The DBMS _____ the SQL query and chooses the most efficient access/execution plan?
+
+`	
+parses
+	
+executes
+	
+fetches
+	
+processes
+Question 14		5 / 5 points
+In-memory database systems are optimized to store small portions of the database in disk storage alone?
+
+	True
+`
+	False
+Question 15		5 / 5 points
+RAID systems use a single disk to create storage volumes?
+
+	True
+`
+	False
+Question 16		5 / 5 points
+On the client side, the objective is to generate an SQL query that returns a correct answer in the least amount of time, using a minimum amount of resources at the server end? The activities required to achieve this goal are commonly referred to as _____ tuning?
+
+	
+client SQL
+	
+database SQL
+`	
+SQL performance
+	
+DBMS performance
+Question 17		5 / 5 points
+If there is no index, the DBMS will perform a _____ scan?
+
+	
+loop
+	
+range
+	
+row ID table access
+`	
+full table
+Question 18		5 / 5 points
+The _____ table space is used for transaction-recovery purposes?
+
+	
+system
+	
+user data
+	
+temporary
+`	
+rollback segment
+Question 19		5 / 5 points
+Fully equivalent means that the optimized query results are always the same as the original query?
+
+`
+	True
+	False
+Question 20		5 / 5 points
+Good database performance is easy to evaluate?
+
+	True
+`
+	False
+Question 1		5 / 5 points
+In theory, a(n) _____ can be an independent centralized database management system with proper interfaces to support remote access from other independent database management systems in the network?
+
+	
+transaction processor
+	
+application processor
+	
+transaction manager
+`	
+data processor
+Question 2		5 / 5 points
+Distributed processing does not require?
+
+	
+database processing functions to be distributed to all data storage sites?
+`	
+an existing distributed database?
+	
+a network of interconnected components?
+	
+multiple sites to share processing chores?
+Question 3		5 / 5 points
+_____ transparency allows data to be updated simultaneously at several network sites?
+
+`	
+Transaction
+	
+Distribution
+	
+Failure
+	
+Performance
+Question 4		5 / 5 points
+A distributed database is composed of several parts known as database _____?
+
+	
+sections
+`	
+fragments
+	
+partitions
+	
+parts
+Question 5		5 / 5 points
+A DDBMS is subject to which of the following restrictions?
+
+	
+Multiple instances of the same database should be integrated over a network?
+	
+All database processing must be done at a single site?
+	
+Rapid ad hoc data access is not possible?
+`	
+Remote data access is provided on a read-only basis?
+Question 6		5 / 5 points
+_____ fragmentation refers to the division of a relation into subsets of tuples?
+
+	
+Vertical
+`	
+Horizontal
+	
+Data
+	
+Mixed
+Question 7		5 / 5 points
+Distributed processing does not require a distributed database, and a distributed database does not require distributed processing?
+
+	True
+`
+	False
+Question 8		5 / 5 points
+Rapid ad hoc data became unnecessary in the quick-response decision-making environment?
+
+	True
+`
+	False
+Question 9		5 / 5 points
+A distributed _____ can reference several different local or remote data processing sites?
+
+	
+request
+	
+site
+	
+data location
+`	
+transaction
+Question 10		5 / 5 points
+The _____ rule requires that all copies of data fragments be identical?
+
+	
+shared fragment
+`	
+mutual consistency
+	
+horizontal fragmentation
+	
+replication
+Question 11		5 / 5 points
+Performance transparency ensures that the system finds the most cost-effective path to access remote data?
+
+`
+	True
+	False
+Question 12		5 / 5 points
+_____ transparency allows a physically dispersed database to be managed as though it were centralized?
+
+`	
+Distribution
+	
+Transaction
+	
+Failure
+	
+Performance
+Question 13		5 / 5 points
+Distributed database systems do not require complex mechanisms to manage transactions and ensure the database's consistency and integrity?
+
+	True
+`
+	False
+Question 14		5 / 5 points
+Distribution transparency is supported by a distributed data dictionary?
+
+`
+	True
+	False
+Question 15		5 / 5 points
+In order to manage distributed data, copies or parts of the database processing functions must be distributed to all data storage sites?
+
+`
+	True
+	False
+Question 16		5 / 5 points
+_____ is the delay imposed by the amount of time required for a data packet to make a round trip from point A to point B?
+
+	
+Data distribution
+	
+Replica transparency
+`	
+Network latency
+	
+Network partitioning
+Question 17		5 / 5 points
+A disadvantage of a distributed database management system (DDBMS) is that?
+
+	
+it is slower in terms of data access?
+	
+adding new sites affects other sites' operations?
+	
+it is processor dependent?
+`	
+there are lack of standards?
+Question 18		5 / 5 points
+_____ transparency exists when the end user or programmer must specify the database fragment names but does not need to specify where these fragments are located?
+
+	
+Transaction
+`	
+Location
+	
+Local mapping
+	
+Fragmentation
+Question 19		5 / 5 points
+A remote transaction, composed of several requests, may access data at multiple sites?
+
+	True
+`
+	False
+Question 20		5 / 5 points
+A database management system needs _____ to prepare the data for presentation to the end user or to an application program?
+
+	
+security
+	
+concurrency control
+`	
+formatting
+	
+I/O interface
+Question 1		5 / 5 points
+The use of HTML does not equip a web browser with computational abilities beyond formatting output text and accepting form field inputs?
+
+`
+	True
+	False
+Question 2		5 / 5 points
+Every XML document has a _____?
+
+`	
+root element
+	
+base tag
+	
+schema
+	
+DTD
+Question 3		5 / 5 points
+Cloud services allow any organization to quickly and economically add information technology services to its IT portfolio?
+
+`
+	True
+	False
+Question 4		5 / 5 points
+The only time the client and server computers communicate is when the client requests a page and the server sends the requested page to the client?
+
+`
+	True
+	False
+Question 5		5 / 5 points
+Among the three levels of compliance of the ODBC API standards, Level-1 provides support for procedural SQL and cursors?
+
+	True
+`
+	False
+Question 6		5 / 5 points
+A plug-in is an external application that is automatically invoked by a web browser when needed?
+
+`
+	True
+	False
+Question 7		5 / 5 points
+Each time an end user clicks a hyperlink, the browser generates a(n) _____ page request that is sent to the designated web server using the TCP/IP Internet protocol?
+
+	
+HTML
+	
+XML
+`	
+HTTP GET
+	
+API
+Question 8		5 / 5 points
+The _____ is an advanced data definition language that is used to describe the structure of XML data documents?
+
+	
+XHTML
+	
+HTML schema
+	
+DTD
+`	
+XML schema
+Question 9		5 / 5 points
+Whether you purchase online or by standing in line, the system-level transaction details are essentially the same, and they require the same basic database structures and relationships?
+
+`
+	True
+	False
+Question 10		5 / 5 points
+The benefits of the web as a data access platform arise from its cross-platform functionality and the simplicity of its interface?
+
+`
+	True
+	False
+Question 11		5 / 5 points
+In the____ category, the cloud service provider offers the capability to build and deploy consumer-created applications using the provider's cloud infrastructure? 
+
+	
+Application as a Server (AaaS)
+	
+Infrastructure as a (IaaS)
+	
+Software as a Service (SaaS)
+`	
+Platform as a Service (PaaS)
+Question 12		5 / 5 points
+Another name for a database server-side extension program is _____?
+
+	
+a web server
+	
+a web application middleware
+`	
+web-to-database middleware
+	
+a database application server
+Question 13		5 / 5 points
+One of the advantages of _____ over other middleware is that it requires no configuration on the client side?
+
+	
+ODBC
+`	
+JDBC
+	
+OLE-DB
+	
+ADO?NET
+Question 14		5 / 5 points
+A(n) _____ can use a shared connection to the database instead of creating a new one every time?
+
+	
+DLL
+`	
+API
+	
+web browser
+	
+HTTP GET request
+Question 15		5 / 5 points
+The Common Gateway Interface (CGI) is a newer web server interface standard that is much more efficient and faster than a dynamic link library (DLL)?
+
+	True
+`
+	False
+Question 16		5 / 5 points
+Which of the following is true of a web application server?
+
+	
+It is Microsoft’s implementation of a superset of the SQL Access Group CLI standard for database access
+	
+It is automatically invoked by the browser when needed
+	
+It runs on the client machine, freeing server resources
+`	
+It provides security and authentication of users through user IDs and passwords
+Question 17		5 / 5 points
+The effects of bad database design, implementation, and management are magnified in an environment in which the number of transactions is less than one hundred?
+
+	True
+`
+	False
+Question 18		5 / 5 points
+A(n) _____ file provides the composition of the database’s logical model and defines the syntax rules for an XML document?
+
+	
+XMLD
+	
+XHTML
+`	
+DTD
+	
+meta
+Question 19		5 / 5 points
+ODBC works on the _____ operating system?
+
+	
+Kronos
+	
+UNIX
+`	
+Windows
+	
+Mac
+Question 20		5 / 5 points
+_____ is a higher-level, object-oriented application interface used to access remote database servers?
+
+	
+UDA
+	
+ODBC
+	
+DAO
+`	
+RDO
+Question 1		5 / 5 points
+A security breach is a weakness in a system component that could be exploited to allow unauthorized access or cause service disruptions?
+
+	True
+`
+	False
+Question 2		5 / 5 points
+At the level of middle management, the database must be able to _____?
+
+	
+provide a framework for defining and enforcing organizational policies
+`	
+provide the data necessary for tactical decisions and planning
+	
+provide feedback to monitor whether a company is achieving its goals
+	
+provide access to external and internal data to identify growth opportunities
+Question 3		5 / 5 points
+In the context of database usage monitoring, a(n) _____ is a file that automatically records a brief description of the database operations performed by all users?
+
+	
+change tracker
+	
+digital footprint
+	
+paper trail
+`	
+audit log
+Question 4		5 / 5 points
+Instructions to create a password are an example of a _____?
+
+	
+rule
+	
+policy
+	
+standard
+`	
+procedure
+Question 5		5 / 5 points
+A passive data dictionary is one that is updated automatically with every database access to keep its access information up to date?
+
+	True
+`
+	False
+Question 6		5 / 5 points
+In the context of the Oracle Enterprise Manager, a(n) _____ is a uniquely identifiable object that allows a given person to log on to the database?
+
+`	
+user
+	
+role
+	
+profile
+	
+client
+Question 7		5 / 5 points
+Which of the following is a reason why a DBMS's daily operations must be clearly documented?
+
+	
+Documentation of the daily operations help a company set its long-term goals
+	
+Documentation of the daily operations help manage the manual data resources of a company
+`	
+Documentation of the daily operations help pinpoint causes and solutions of database problems
+	
+Documentation of the daily operations help free the DBA from many lower-level technology-oriented tasks
+Question 8		5 / 5 points
+“All users must have passwords” is an example of a _____?
+
+	
+rule
+`	
+policy
+	
+standard
+	
+procedure
+Question 9		5 / 5 points
+_____ deals with ensuring that data is protected against unauthorized access, and if the data are accessed by an authorized user, that the data are used only for an authorized purpose?
+
+	
+Integrity
+	
+Compliance
+	
+Availability
+`	
+Confidentiality
+Question 10		5 / 5 points
+In the context of data backup and recovery, the activities of a _____ includes the DBA operations that are classified as disaster management?
+
+	
+database programmer
+	
+systems analyst
+	
+data administrator
+`	
+database security officer
+Question 11		5 / 5 points
+Security breaches can yield a database whose integrity is either preserved or corrupted?
+
+`
+	True
+	False
+Question 12		5 / 5 points
+When performing user access management, a DBA defines each user to the database at the _____ levels?
+
+	
+application and DBMS
+`	
+operating system and DBMS
+	
+operating system and application
+	
+application and network
+Question 13		5 / 5 points
+Training people to use the DBMS and its tools is not included in the responsibilities of a DBA?
+
+	True
+`
+	False
+Question 14		5 / 5 points
+The introduction of a DBMS represents a big change and challenge, and is likely to have a profound impact throughout the organization?
+
+`
+	True
+	False
+Question 15		5 / 5 points
+Concurrent backups take place while the user is working on the database?
+
+`
+	True
+	False
+Question 16		5 / 5 points
+"A password must have a minimum of five characters" is an example of a _____?
+
+	
+policy
+	
+rule
+	
+procedure
+`	
+standard
+Question 17		5 / 5 points
+The DBA is responsible for ensuring that the data are distributed to the right persons, at the right time, and in the right format?
+
+`
+	True
+	False
+Question 18		5 / 5 points
+Disaster management includes all the end-user activities designed to secure data availability before a physical disaster or a database integrity failure?
+
+	True
+`
+	False
+Question 19		5 / 5 points
+The _____ component of a CASE tool produces the information system’s input/output formats?
+
+	
+analysis
+	
+graphics
+	
+program document generator
+`	
+screen painter and report generator
+Question 20		5 / 5 points
+An enterprise database can be defined as the company's data representation that provides support for all present and expected future operations?
+
+`
+	True
+	False

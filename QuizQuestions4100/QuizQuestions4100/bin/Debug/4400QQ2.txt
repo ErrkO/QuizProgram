@@ -1,0 +1,871 @@
+Which of the following is a hardware-induced database failure?
+Memory chip errors
+true
+Viruses
+false
+Malware
+false
+Abortion due to deadlock
+false
+####
+After the initial declarations in Database Life Cycle (DBLC), the database designer must carefully probe in order to generate additional information that will help define the problem within the larger framework of company operations?
+True
+true
+False
+false
+####
+In the context of the database design process, the conceptual design step that defines the fragmentation and allocation strategy is _____?
+database analysis and requirements
+false
+ER modeling and normalization
+false
+data model verification
+false
+distributed database design
+true
+####
+The database contents might be loaded interactively or in batch mode using a variety of methods and devices including customized user programs?
+True
+true
+False
+false
+####
+Coding, testing, and debugging are part of the _____ phase of the Systems Development Life Cycle (SDLC)?
+planning
+false
+analysis
+false
+detailed systems design
+false
+implementation
+true
+####
+Data integrity is enforced by the database management system (DBMS) through the proper use of primary and foreign key rules?
+True
+true
+False	
+false
+####
+The implicit beginning of a transaction is ___?
+when database is started
+false
+when a table is accessed for the first time
+false
+when the first SQL statement is encountered
+true
+when the COMMIT command is issued
+false
+####
+Although the DBMS is designed to recover a database to a previous consistent state when an interruption prevents the completion of a required set of transactions, the transactions themselves are defined by the end user or programmer and must be semantically correct?
+True
+true
+False
+false
+####
+When using an optimistic approach, during the read phase, a transaction reads the database, executes the needed computations, and makes the updates to a private copy of the database values?
+True
+true
+False
+false
+####
+The ANSI has define standard that govern SQL database transactions? Of the following events, which is defined by ANSI as being equivalent to a ROLLBACK?
+​Five SQL statements are executed
+false
+The end of a program is successfully reached
+false
+The program is abnormally terminated
+true
+The database is shut down for maintenance
+false
+####
+Lock_____ indicates the level of lock use?
+granularity
+false
+shrinking
+false
+growing
+false
+serializability
+false
+####
+A(n) ____ phase in a two phase lock is when  transaction releases all locks and cannot obtain any new lock?
+growing
+false
+shrinking 
+false
+locking
+false
+unlocking
+false
+####
+Transaction is a ____ unit of work that must be either entirely completed or aborted​?
+​time
+false
+​practical
+false
+​logical
+false
+​physical
+false
+####
+A field-level lock allows concurrent transactions to access the same row, as long as they require the use of different fields within that row?
+True
+false
+False
+false
+####
+_____ means that data used during the execution of a transaction cannot be used by a second transaction until the first one is completed?
+​Serializability 
+false
+Atomocity
+false
+Isolation
+false
+​Time stamping
+false
+####
+The phenomenon of uncommitted data occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data—thus violating the isolation property of transactions?
+True
+false
+False
+false
+####
+A(n)_____ specifically reserves access to the transaction that locked the object?
+shared lock
+false
+exclusive lock
+false
+binary lock
+false
+deadlock
+false
+####
+In a page-level lock, the DBMS will lock an entire diskpage?
+True
+false
+False
+false
+####
+The multiuser DBMS must implement controls to ensure serializability and isolation of transactions, in addition to atomicity and durability, in order to guard the database's consistency and integrity?
+True
+false
+False
+false
+####
+In the optimistic approach, during the____ phase, a transaction scans the database, executes the needed computations, and makes the updates to a private copy of the database values?
+read
+false
+validation
+false
+write
+false
+shared
+false
+####
+A growing phase in a two-phase lock is when a transaction acquires all the required locks without locking any data?
+True
+false
+False
+false
+####
+Most real-world database transactions are formed by only one database request?
+True
+false
+False
+false
+####
+An optimistic approach is based on the assumption that the majority of the database operations do not conflict?
+True
+false
+False
+false
+####
+The _____ isolation level ensures that queries return consistent results?
+read uncommitted
+false
+read committed
+false
+serializable
+false
+repeatable read
+false
+####
+Time stamping demands a lot of system resources because many transactions might have to be stopped, rescheduled, and stamped? 
+True
+false
+False
+false
+####
+The serializable isolation level is the least restrictive level defined by the ANSI SQL standard?
+True
+false
+False	
+false
+####
+The LIKE conditional operator is used by the _____ OPERAND1?
+P_PRICE
+false
+V_STATE
+false
+P_QOH
+false
+V_CONTACT
+false
+####
+Automatic query optimization means that the?
+optimization takes place at compilation time by the programmer
+false
+DBMS finds the most cost-effective access path without user intervention
+false
+optimization process is scheduled and selected by the end user or programmer
+false
+database access strategy is defined when the program is executed
+false
+####
+On the server side, the database environment must be properly configured to respond to clients' requests in the fastest way possible, while making optimum use of existing resources? The activities required to achieve this goal are commonly referred to as _____ tuning?
+client and server
+false
+database SQL
+false
+SQL performance
+false
+DBMS performance
+false
+####
+The data cache caches system catalog data and the contents of the indexes?
+True
+false
+False
+false
+####
+A DBA determines the initial size of the data files that make up the database; however, as required, the data files can automatically expand in predefined increments known as _____?
+procedure cache
+false
+buffer cache
+false
+supplements
+false
+extends
+false
+####
+The DBMS _____ the data and sends the result set back to the client?
+parses
+false
+executes
+false
+fetches
+false
+processes
+false
+####
+To work with data, a DBMS must retrieve the data from _____ and place them in _____?
+data files; procedure cache
+false
+RAM; data cache
+false
+permanent storage; RAM
+false
+temporary files; procedure cache
+false
+####
+All transaction management commands are processed during the parsing and execution phases of query processing?
+True
+false
+False
+false
+####
+Indexes are very useful in small tables or tables with low sparsity?
+True
+false
+False
+false
+####
+The majority of primary memory resources will be allocated to the _____ cache?
+data
+false
+SQL
+false
+sort
+false
+optimizer
+false
+####
+An index scan is less efficient than a full table scan?
+True
+false
+False
+false
+####
+Knowing the sparsity of a column helps you decide whether the use of _____ is appropriate?
+query processing
+false
+query optimization
+false
+an index
+false
+a full table scan
+false
+####
+The DBMS _____ the SQL query and chooses the most efficient access/execution plan?
+parses
+false
+executes
+false
+fetches
+false
+processes
+false
+####
+In-memory database systems are optimized to store small portions of the database in disk storage alone?
+True
+false
+False
+false
+####
+RAID systems use a single disk to create storage volumes?
+True
+false
+False
+false
+####
+On the client side, the objective is to generate an SQL query that returns a correct answer in the least amount of time, using a minimum amount of resources at the server end? The activities required to achieve this goal are commonly referred to as _____ tuning?
+client SQL
+false
+database SQL
+false
+SQL performance
+false
+DBMS performance
+false
+####
+If there is no index, the DBMS will perform a _____ scan?
+loop
+false
+range
+false
+row ID table access
+false
+full table
+false
+####
+The _____ table space is used for transaction-recovery purposes?
+system
+false
+user data
+false
+temporary
+false
+rollback segment
+false
+####
+Fully equivalent means that the optimized query results are always the same as the original query?
+True
+false
+False
+false
+####
+Good database performance is easy to evaluate?
+True
+false
+False
+false
+####
+In theory, a(n) _____ can be an independent centralized database management system with proper interfaces to support remote access from other independent database management systems in the network?
+transaction processor
+false
+application processor
+false
+transaction manager
+false
+data processor
+false
+####
+Distributed processing does not require?
+database processing functions to be distributed to all data storage sites
+false
+an existing distributed database
+true
+a network of interconnected components
+false
+multiple sites to share processing chores
+false
+####
+_____ transparency allows data to be updated simultaneously at several network sites?
+Transaction
+false
+Distribution
+false
+Failure
+false
+Performance
+false
+####
+A distributed database is composed of several parts known as database _____?
+sections
+false
+fragments
+false
+partitions
+false
+parts
+false
+####
+A DDBMS is subject to which of the following restrictions?
+Multiple instances of the same database should be integrated over a network
+false
+All database processing must be done at a single site
+false
+Rapid ad hoc data access is not possible
+false
+Remote data access is provided on a read-only basis
+true
+####
+_____ fragmentation refers to the division of a relation into subsets of tuples?
+Vertical
+false
+Horizontal
+false
+Data
+false
+Mixed
+false
+####
+Distributed processing does not require a distributed database, and a distributed database does not require distributed processing?
+True
+false
+False
+false
+####
+Rapid ad hoc data became unnecessary in the quick-response decision-making environment?
+True
+false
+False
+false
+####
+A distributed _____ can reference several different local or remote data processing sites?
+request
+false
+site
+false
+data location
+false
+transaction
+false
+####
+The _____ rule requires that all copies of data fragments be identical?
+shared fragment
+false
+mutual consistency
+false
+horizontal fragmentation
+false
+replication
+false
+####
+Performance transparency ensures that the system finds the most cost-effective path to access remote data?
+True
+false
+False
+false
+####
+_____ transparency allows a physically dispersed database to be managed as though it were centralized?
+Distribution
+false
+Transaction
+false
+Failure
+false
+Performance
+false
+####
+Distributed database systems do not require complex mechanisms to manage transactions and ensure the database's consistency and integrity?
+True
+false
+False
+false
+####
+Distribution transparency is supported by a distributed data dictionary?
+True
+false
+False
+false
+####
+In order to manage distributed data, copies or parts of the database processing functions must be distributed to all data storage sites?
+True
+false
+False
+false
+####
+_____ is the delay imposed by the amount of time required for a data packet to make a round trip from point A to point B?
+Data distribution
+false
+Replica transparency
+false
+Network latency
+false
+Network partitioning
+false
+####
+A disadvantage of a distributed database management system (DDBMS) is that?
+it is slower in terms of data access
+false
+adding new sites affects other sites' operations
+false
+it is processor dependent
+false
+there are lack of standards
+true
+####
+_____ transparency exists when the end user or programmer must specify the database fragment names but does not need to specify where these fragments are located?
+Transaction
+false
+Location
+false
+Local mapping
+false
+Fragmentation
+false
+####
+A remote transaction, composed of several requests, may access data at multiple sites?
+True
+false
+False
+false
+####
+A database management system needs _____ to prepare the data for presentation to the end user or to an application program?
+security
+false
+concurrency control
+false
+formatting
+false
+I/O interface
+false
+####
+The use of HTML does not equip a web browser with computational abilities beyond formatting output text and accepting form field inputs?
+True
+false
+False
+false
+####
+Every XML document has a _____?
+root element
+false
+base tag
+false
+schema
+false
+DTD
+false
+####
+Cloud services allow any organization to quickly and economically add information technology services to its IT portfolio?
+True
+false
+False
+false
+####
+The only time the client and server computers communicate is when the client requests a page and the server sends the requested page to the client?
+True
+false
+False
+false
+####
+Among the three levels of compliance of the ODBC API standards, Level-1 provides support for procedural SQL and cursors?
+True
+false
+False
+false
+####
+A plug-in is an external application that is automatically invoked by a web browser when needed?
+True
+false
+False
+false
+####
+Each time an end user clicks a hyperlink, the browser generates a(n) _____ page request that is sent to the designated web server using the TCP/IP Internet protocol?
+HTML
+false
+XML
+false
+HTTP GET
+false
+API
+false
+####
+The _____ is an advanced data definition language that is used to describe the structure of XML data documents?
+XHTML
+false
+HTML schema
+false
+DTD
+false
+XML schema
+false
+####
+Whether you purchase online or by standing in line, the system-level transaction details are essentially the same, and they require the same basic database structures and relationships?
+True
+false
+False
+false
+####
+The benefits of the web as a data access platform arise from its cross-platform functionality and the simplicity of its interface?
+True
+false
+False
+false
+####
+In the____ category, the cloud service provider offers the capability to build and deploy consumer-created applications using the provider's cloud infrastructure? 
+Application as a Server (AaaS)
+false
+Infrastructure as a (IaaS)
+false
+Software as a Service (SaaS)
+false
+Platform as a Service (PaaS)
+false
+####
+Another name for a database server-side extension program is _____?
+a web server
+false
+a web application middleware
+false
+web-to-database middleware
+false
+a database application server
+false
+####
+One of the advantages of _____ over other middleware is that it requires no configuration on the client side?
+ODBC
+false
+JDBC
+false
+OLE-DB
+false
+ADO?NET
+false
+####
+A(n) _____ can use a shared connection to the database instead of creating a new one every time?
+DLL
+false
+API
+false
+web browser
+false
+HTTP GET request
+false
+####
+The Common Gateway Interface (CGI) is a newer web server interface standard that is much more efficient and faster than a dynamic link library (DLL)?
+True
+false
+False
+false
+####
+Which of the following is true of a web application server?
+It is Microsoft’s implementation of a superset of the SQL Access Group CLI standard for database access
+false
+It is automatically invoked by the browser when needed
+false
+It runs on the client machine, freeing server resources
+false
+It provides security and authentication of users through user IDs and passwords
+false
+####
+The effects of bad database design, implementation, and management are magnified in an environment in which the number of transactions is less than one hundred?
+True
+false
+False
+false
+####
+A(n) _____ file provides the composition of the database’s logical model and defines the syntax rules for an XML document?
+XMLD
+false
+XHTML
+false
+DTD
+false
+meta
+false
+####
+ODBC works on the _____ operating system?
+Kronos
+false
+UNIX
+false
+Windows
+false
+Mac
+false
+####
+_____ is a higher-level, object-oriented application interface used to access remote database servers?
+UDA
+false
+ODBC
+false
+DAO
+false
+RDO
+false
+####
+A security breach is a weakness in a system component that could be exploited to allow unauthorized access or cause service disruptions?
+True
+false
+False
+false
+####
+At the level of middle management, the database must be able to _____?
+provide a framework for defining and enforcing organizational policies
+false
+provide the data necessary for tactical decisions and planning
+false
+provide feedback to monitor whether a company is achieving its goals
+false
+provide access to external and internal data to identify growth opportunities
+false
+####
+In the context of database usage monitoring, a(n) _____ is a file that automatically records a brief description of the database operations performed by all users?
+change tracker
+false
+digital footprint
+false
+paper trail
+false
+audit log
+false
+####
+Instructions to create a password are an example of a _____?
+rule
+false
+policy
+false
+standard
+false
+procedure
+false
+####
+A passive data dictionary is one that is updated automatically with every database access to keep its access information up to date?
+True
+false
+False
+false
+####
+In the context of the Oracle Enterprise Manager, a(n) _____ is a uniquely identifiable object that allows a given person to log on to the database?
+user
+false
+role
+false
+profile
+false
+client
+false
+####
+Which of the following is a reason why a DBMS's daily operations must be clearly documented?
+Documentation of the daily operations help a company set its long-term goals
+false
+Documentation of the daily operations help manage the manual data resources of a company
+false
+Documentation of the daily operations help pinpoint causes and solutions of database problems
+false
+Documentation of the daily operations help free the DBA from many lower-level technology-oriented tasks
+false
+####
+“All users must have passwords” is an example of a _____?
+rule
+false
+policy
+false
+standard
+false
+procedure
+false
+####
+_____ deals with ensuring that data is protected against unauthorized access, and if the data are accessed by an authorized user, that the data are used only for an authorized purpose?
+Integrity
+false
+Compliance
+false
+Availability
+false
+Confidentiality
+false
+####
+In the context of data backup and recovery, the activities of a _____ includes the DBA operations that are classified as disaster management?
+database programmer
+false
+systems analyst
+false
+data administrator
+false
+database security officer
+false
+####
+Security breaches can yield a database whose integrity is either preserved or corrupted?
+True
+false
+False
+false
+####
+When performing user access management, a DBA defines each user to the database at the _____ levels?
+application and DBMS
+false
+operating system and DBMS
+false
+operating system and application
+false
+application and network
+false
+####
+Training people to use the DBMS and its tools is not included in the responsibilities of a DBA?
+True
+false
+False
+false
+####
+The introduction of a DBMS represents a big change and challenge, and is likely to have a profound impact throughout the organization?
+True
+false
+False
+false
+####
+Concurrent backups take place while the user is working on the database?
+True
+false
+False
+false
+####
+"A password must have a minimum of five characters" is an example of a _____?
+policy
+false
+rule
+false
+procedure
+false
+standard
+false
+####
+The DBA is responsible for ensuring that the data are distributed to the right persons, at the right time, and in the right format?
+True
+false
+False
+false
+####
+Disaster management includes all the end-user activities designed to secure data availability before a physical disaster or a database integrity failure?
+True
+false
+False
+false
+####
+The _____ component of a CASE tool produces the information system’s input/output formats?
+analysis
+false
+graphics
+false
+program document generator
+false
+screen painter and report generator
+false
+####
+An enterprise database can be defined as the company's data representation that provides support for all present and expected future operations?
+True
+false
+False
+false

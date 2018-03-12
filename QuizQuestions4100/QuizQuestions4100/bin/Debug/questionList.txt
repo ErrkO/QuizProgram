@@ -1,0 +1,1576 @@
+A bug in a library function causes an entire operating system to crash. This is an example of which of the following?
+An emergent property.
+false
+Propagation of effects.
+true
+Incommensurate scaling.
+false
+A trade-off.
+false
+####
+When the precision of a mathematical computation is increased, it takes more time to perform the computation. This is an example of which of the following?	
+An emergent property.
+false
+Propagation of effects.
+false
+Incommensurate scaling.
+false
+A trade-off.
+true
+####
+Why do systems often have a large number of requirements, even though it increases their complexity?
+The more requirements a system satisfies, the more problems a system can be used to solve.
+true
+Additional requirements are needed to improve the performance of a system.
+false
+Additional requirements can make the specification of a system less complicated.
+false
+The impact of a new requirement on the complexity of the system is usually very small.
+false
+####
+What is the benefit of high utilization of resources in a system? 	
+Improving resource utilization reduces the complexity of a system.
+false
+Improving resource utilization improves the performance of a system.
+true	
+Improving resource utilization improves the correctness of a system.
+false 	
+Improving resource utilization makes a system easier to maintain.
+false
+####
+What is the main disadvantage of high utilization of resources in a system? 	
+Improving resource utilization makes the system less efficient.
+false 	
+Improving resource utilization reuqires some resources to be used well below their full capacity.
+false
+Improving resource utilization requires more coordination between components.
+true 	
+There are no disadvantages to high utilization.
+false
+####
+The HTTP protocol is implemented using the TCP protocol which is implemented using the IP protocol. This is an example of which of the following? 	
+Modularity.
+false
+Abstraction.
+false
+Layering.
+true	
+Hierarchy.
+false
+####
+Using classes in C++ allows implementation details to be hidden from software using those classes to create objects. This is an example of which of the following? 	
+Modularity.
+false
+Abstraction.
+true	
+Layering.
+false
+Hierarchy.
+false
+####
+A UNIX file system is managed using a root directory which contains several subdirectories, each of which contain subdirectories of their own. This is an example of which of the following?	
+Modularity.
+false
+Abstraction.
+false
+Layering.
+false
+Hierarchy.
+true
+####
+Which of the following does not contribute to a successful iterative design process? 	
+Incorporating feedback from other phases in the development process.
+false
+Introducing changes incrementally instead of all at once.
+false	
+Developing a system quickly to meet important deadlines.
+true	
+Designing a system so that changes are easier to introduce.
+true
+####
+An operating system is made up of which of the following?
+The kernel and system programs.
+true	
+The kernel and user applications.
+false
+The system programs and user applications.
+false 	
+The kernel, system programs, and user applications.
+false
+####
+Which of the following operating systems was developed by Bell Labs and became widely available in 1975? 	
+MacOS
+false
+Unix
+true	
+Linux
+false 	
+Windows
+false
+####
+Which of the following is not the responsibility of the kernel? 	
+Scheduling processes to run on the CPU(s).
+false	
+Allocating memory to running processes.
+false 	
+Providing an interface for processes to access the file system.
+false	
+Providing a command line user interface.
+true
+####
+Which of the following operating system features ensures that multiple users can access the system at the same time?	
+Multitasking.
+false	
+Timesharing.
+true 	
+Interprocess Communication.
+false 	
+Protection.
+false
+####
+What does the ls command do?	
+It lists the contents of a directory.
+true	
+It displays the contents of a text file.
+false	
+It deletes a file.
+false 	
+It renames a file.
+false
+####
+What does the mv command do? 	
+It lists the contents of a directory.
+false
+It displays the contents of a text file.
+false 	
+It deletes a file.
+false
+It renames a file.
+true
+####
+Which of the following commands can be used to display only the lines containing a particular string?	
+cat
+false	
+grep
+true 	
+diff
+false 	
+sort
+false
+####
+Which of the following commands can be used to show what has changed between two versions of a text file? 	
+cat
+false 	
+grep
+false	
+diff
+true	
+sort
+false
+####
+Given a file called planets.txt containing the following text list:(Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune)--Which of the following commands would result in displaying the list (Saturn Uranus Neptune):	
+head planets.txt
+false
+head -3 planets.txt
+false
+tail planets.txt
+false
+tail -3 planets.txt
+true
+####
+Which of the following commands lists the users that are currently logged in to the system? 	
+hostname
+false
+who
+true	
+uptime
+false	
+free
+false
+####
+What is the name of the file that is created by the script command?	
+scriptfile
+false
+logfile
+false 	
+logscript
+false	
+typescript
+true
+####
+Which of the following commands will display files that start with a '.' character? 	
+ls
+false
+ls -l
+false	
+ls -a
+true	
+ls -F
+false
+####
+Which of the following path names resolves to a file in the user's home directory regardless of the current working directory?	
+/homestar_runner.txt
+false	
+~/homestar_runner.txt
+true 	
+./homestar_runner.txt
+false 	
+../homestar_runner.txt
+false
+####
+Which of the following commands is used to create a directory? 	
+pwd
+false	
+mkdir
+true 	
+rmdir
+false 	
+cd
+false
+####
+Which of the following commands is used to display the current working directory?	
+pwd
+true 	
+mkdir
+false 	
+rmdir
+false	
+cd
+false
+####
+The rm command without any options will not delete which of the following?	
+A regular file.
+false 	
+A hard link.
+false	
+A symbolic link.
+false	
+A directory.
+true
+####
+Which of the following is not displayed by the ls -l command?	
+The name of the file.
+false 	
+The owner of the file.
+false	
+The contents of the file.
+true 	
+When the file was last modified.
+false
+####
+Which of the following commands makes a symbolic link called link_to_file1 from an existing file called file1? 	
+ln link_to_file1 file1
+false 	
+ln file1 link_to_file1
+false 	
+ln -s link_to_file1 file1
+false	
+ln -s file1 link_to_file1
+true
+####
+Which of the following commands lists the metadata associated with the file file1?	
+ls -x file1
+false 	
+ls -a file1
+false	
+ls -l file1
+true 	
+ls -r file1
+false
+####
+When is a Linux file actually deleted?
+When the user uses the rm command to delete the original link to the file.
+false 	
+When the user uses the rm command to delete all symbolic links to the file.
+false	
+When the user uses the rm command to delete all hard links to the file.
+true 	
+When the directory containing the file is deleted.
+false
+####
+Which of the following would not be considered metadata? 	
+The permissions of a file.
+false 	
+The owner of a file.
+false 	
+The date and time the file was last modified.
+false	
+The contents of the file.
+true
+####
+What characters are used to separate the command and the arguments in a command line?	
+Spaces or tabs.
+true	
+Spaces or commas.
+false 	
+Commas or tabs.
+false 	
+Spaces, commas, or tabs.
+false
+####
+What is the order in which the shell does the following operations? ( A. Read the command line into an array. B. Execute the program C. Check if the program for the command exists, if not display an error message. D. Issue a prompt.): 	
+D, A, B, C
+false	
+D, A, C, B
+true 	
+D, B, A, C
+false 	
+D, B, C, A
+false
+####
+Which of the following is not one of the system calls used by the Linux shell to execute a simple command line (with no redirects or pipelines.) 	
+fork
+false 	
+exec
+false 	
+wait
+false	
+open
+true
+####
+What does the following command do?  sort < file1 	
+It redirects the standard input of sort to come from file1.
+true 	
+It redirects the standard output of sort to go to file1.
+false 	
+It redirects the standard error of sort to go to file1.
+false 	
+It sets up a pipeline between sort and file1.
+false
+####
+What does the following command do?  ls | sort  	
+It redirects the standard input of ls to come from sort.
+false	
+It redirects the standard output of ls to go to sort.
+false 	
+It redirects the standard error of ls to go to sort.
+false	
+It sets up a pipeline between ls and sort.
+true
+####
+If a file is moved or deleted, any symbolic links to that file are automatically updated.
+---True
+false
+---False
+true
+####
+When the shell reads a command line into an array of strings, the string at index 0 represents the name of the command.
+---True
+true
+---False
+false
+####
+By default, data sent to standard error is displayed to the terminal screen.
+---True
+true
+---False
+false
+####
+Executing a pipeline only requires forking one child process.
+---True
+false
+---False
+true
+####
+Which of the following is connected to the console keyboard by default?	
+Standard input.
+true	
+Standard output.
+false 	
+Standard error.
+false 	
+Standard poodle.
+false
+####
+Which of the following is the first script executed when a user logs in to a system with bash set up as their default shell?	
+~/.bash_login
+false	
+/etc/profile
+true 	
+~/.bash_profile
+false 	
+~/.bash_logout
+false
+####
+In bash, which of the following commands redirects the standard error of the command find / into the file errors.txt? 	
+find / > errors.txt
+false 	
+find / 1> errors.txt
+false	
+find / 2> errors.txt
+true 	
+find / 3> errors.txt
+false
+####
+What should the first line of a bash shell script be?
+#!/bin/bash
+true	
+echo "Hello World."
+false 	
+chmod u + x hello.sh
+false 	
+./hello.sh
+false
+####
+What is the command that makes the shell script hello.sh executable?	
+#!/bin/bash
+false 	
+echo "Hello World."
+false
+chmod u + x hello.sh
+true 	
+./hello.sh
+false
+####
+Which of the following symbols indicates the beginning of a single-line comment in a bash shell script? 	
+//
+false 	
+/*
+false 	
+$
+false	
+#
+true
+####
+Which of the following command lines executes two commands one at a time in sequence, regardless of the success or failure of the first command?
+sort names.txt > sorted.txt; mv sorted.txt names.txt
+true	
+sort names.txt > sorted.txt | mv sorted.txt names.txt
+false 	
+sort names.txt > sorted.txt & mv sorted.txt names.txt
+false 	
+sort names.txt > sorted.txt && mv sorted.txt names.txt
+false
+####
+What does the following command do?     cat file1.txt || cat file2.txt 	
+It displays the file file1.txt first, then displays the file file2.txt.
+false 	
+It displays the files file1.txt and file2.txt at the same time.
+false 	
+It attempts to display file1.txt. If that succeeds it then attempts to display file2.txt.
+false	
+It attempts to display file1.txt. If that fails it then attempts to display file2.txt.
+true
+####
+Which of the following sets a variable called word to the string bird?	
+word=bird
+true 	
+$word=bird
+false 	
+${word}=bird
+false 	
+$word=$bird
+false
+####
+Given the following bash function definition:  function howdy( ) { echo "Howdy, partner." }  Which of the following commands is the correct way to call the function?	
+howdy
+true 	
+howdy()
+false 	
+$howdy
+false 	
+$howdy()
+false
+####
+Which of the following does bash perform first?	
+Process substitution.
+false	
+Variable expansion.
+true	
+Command substitution.
+false 	
+Pathname expansion.
+false
+####
+In bash, an if...then...else control structure will execute the commands after the else in which of the following situations? 	
+When the test command succeeds.
+false	
+When the test command fails
+true 	
+When all of the commands after the then succeed.
+false 	
+When one of the commands after the then fails.
+false
+####
+What does the following command display? for word in fee fie foe fum (new line)  do (new line) echo $word (new line) done; 	
+fee fie foe fum
+false
+fee (new line) fie (new line) foe (new line) fum
+true 	
+fee
+false
+fum
+false
+####
+What is the difference between a while loop and an until loop? 	
+A while loop executes the commmands in the body at least once before running the test command. An until loop runs the test command first.
+false
+An until loop executes the commmands in the body at least once before running the test command. A while loop runs the test command first.
+false	
+A while loop executes the commmands in the body when the test command succeeds. An until loop executes the commands in the body when the test command fails.
+true 	
+An until loop executes the commmands in the body when the test command succeeds. A while loop executes the commands in the body when the test command fails.
+false
+####
+The case control in bash structure is most similar to which of the following C++ control structures?	
+if...else statement
+false 	
+while loop
+false 	
+for loop
+false	
+switch statement
+true
+####
+Which of the following strings match the pattern s?e*	
+send
+false	
+spend
+true 	
+stretch
+false 	
+such
+false
+####
+What is the value of the $0 parameter?	
+The first command line argument to the shell script.
+false 	
+The number of command line arguments to the shell script.
+false	
+The name of the command executing the shell script.
+true 	
+The PID of the shell script.
+false
+####
+What is the value of the $# parameter? 	
+The first command line argument to the shell script.
+false	
+The number of command line arguments to the shell script.
+true 	
+The name of the command executing the shell script.
+false 	
+The PID of the shell script.
+false
+####
+Which of the following commands stores the variable var in the environment? 	
+var=Hello
+false 	
+echo $var
+false	
+export var
+true 	
+read var
+false
+####
+Which of the following sets the variable array1 to an array containing the strings moose, frog and bear? 	
+array1=moose frog bear
+false 	
+array1={moose frog bear}
+false 	
+array1=[moose frog bear]
+false	
+array1=(moose frog bear)
+true
+####
+Which of the following builtin commands sends a signal to a process? 	
+read
+false 	
+exec
+false 	
+trap
+false	
+kill
+true
+####
+Files are typically accessed and modified using an interface that reads and writes data based on its position within the file. This is an example of which of the following abstractions?
+Memory.
+true	
+Interpreter.
+false 	
+Communication Link.
+false 	
+None of the above.
+false
+####
+Shell programs that execute commands are an example of which of the following abstractions? 	
+Memory.
+false
+Interpreter.
+true 	
+Communication Link.
+false	
+None of the above.
+false
+####
+Which of the following is a correct description of the architecture of a magnetic disk?	
+A stack of platters each of which contains several tracks broken up into sectors.
+true 	
+A stack of platters each of which contains several sectors broken up into tracks.
+false 	
+A stack of tracks each of which contains several platters broken up into sectors.
+false 	
+A stack of tracks each of which contains several sectors broken up into platters.
+false
+####
+The instruction set of a processor corresponds to which of the following components of the interpreter abstraction? 	
+The instruction refernence.
+false	
+The repertoire.
+true 	
+The environment reference.
+false	
+None of the above.
+false
+####
+A mapping of a name to a value is called a(n) __________.	
+namespace
+false	
+binding
+true 	
+context
+false 	
+resolution
+false
+####
+Linux file system path names resolve using _____________.	
+table lookup
+false	
+recursive lookup
+true 	
+multiple lookup
+false	
+none of the above
+false
+####
+The root directory in the Linux file system is an example of a _____________.	
+well-known name
+true 	
+broadcast
+false 	
+query
+false
+name in one namespace resolved to a name in another namespace.
+false
+####
+The system bus is an example of a component of the ______ layer.	
+hardware
+true 	
+operating system
+false 	
+application
+false
+####
+Which of the following is not a common feature of a bus? 	
+A set of wires responsible for transmittion address, data, and control information.
+false 	
+Connections to the bus interface of other hardware modules.
+false 	
+All hardware modules can see all messages send on the bus.
+false	
+Two or more hardware modules can send a message on the bus at the same time.
+true
+####
+The unique identifier of the recipient of a message is sent along which of the bus wires?
+address
+true 	
+control
+false 	
+data
+false
+####
+Which of the following is not typically true about a file?
+It is most often stored in volatile main memory.
+true 	
+From the point of view of a process, it is an array of bytes.
+false 	
+Information in a file persists after an application writing to it has terminated.
+false 	
+It has a name that can be used to access its data and share it with other users.
+false
+####
+Why do files in most file systems need to be opened and closed? 	
+Resolving the file name and checking permissions only needs to be done once.
+false 	
+The CLOSE operation lets the operating system know that any resources keeping track of the open file can be freed up.
+false	
+It makes it easier to enforce atomic operations on files.
+false	
+All of the above.
+true
+####
+What is the advantage of making the size of a disk block larger? 	
+Larger blocks result in less wasted space for small files.
+false 	
+Larger blocks take less time to transfer between main memory and secondary storage.
+false	
+Larger blocks mean fewer blocks to keep track of in a free block list or bitmap.
+true 	
+Larger blocks take up less space in main memory.
+false
+####
+What is the difference between logical block numbers and physical block numbers?	
+Logical block numbers are consecutive with respect to a file, physical block numbers are consecutive with respect to a disk.
+true 	
+Logical block numbers are consecutive with respect to a disk, physical block numbers are consecutive with respect to a file.
+false 	
+Logical block numbers are stored in directories, while physical block numbers are stored in inodes.
+false
+Logical block numbers are stored in inodes, while physical block numbers are stored in directories.
+false
+####
+Assume that the size of a block is 512 bytes. What is the logical block number and offset within the block corresponding to the offset from the beginning of the file of 1200 bytes? 	
+Block number: 0     Byte offset: 1200
+false
+Block number: 1     Byte offset: 688
+false
+Block number: 2     Byte offset: 176
+true 	
+Block number: 3     Byte offset: -336
+false
+####
+Which of the following accurately describes a UNIX path name for a regular file? 	
+A sequence of regular file names separated by forward slashes, ending in a regular file name.
+false 	
+A sequence of regular file names separated by forward slashes, ending in a directory name.
+false 	
+A sequence of directory names separated by forward slashes, ending in a directory name.
+false	
+A sequence of directory names separated by forward slashes, ending in a regular file name.
+true
+####
+When are the contents of a file deallocated in the UNIX file system? 	
+When the UNLINK operation is performed.
+false	
+When the file is moved to another directory.
+false 	
+When the file's reference count reaches zero.
+false	
+When the file's reference count reaches zero and no processes have the file open.
+true
+####
+What is the UNIX procedure for mapping a directory on one file system to the root directory of a file system on another device? 	
+LINK
+false 	
+UNLINK
+false	
+MOUNT
+true 	
+UNMOUNT
+false
+####
+In a UNIX process, what does file descriptor 0 represent?
+Standard input.
+true 	
+Standard output.
+false 	
+Standard error.
+false 	
+None of the above.
+false
+####
+What is the difference between the READ and WRITE procedures? 	
+The READ procedure adds an entry to the file descriptor table, while the WRITE procedure removes an entry from the file descriptor table.
+false 	
+The READ procedure removes an entry to the file descriptor table, while the WRITE procedure adds an entry from the file descriptor table.
+false	
+The READ procedure transfers data from a file to a buffer in memory, while the WRITE procedure transfers data from a buffer in memory to a file.
+true 	
+The READ procedure transfers data from a buffer in memory to a file, while the WRITE procedure transfers data from a file to a buffer in memory.
+false
+####
+How does a client/service organization enforce modularity better than a procedure call stack?	
+A procedure call stack has a limited amount of space.
+false 	
+A procedure call stack can not be shared between two separate threads.
+false	
+Errors generated by a service won't interfere with a client's operation.
+true 	
+A client/service organization offers better performance.
+false
+####
+How do clients interact with services? 	
+A client calls a procedure in the service's API and the service responds by returning a value.
+false 	
+A client stores information in a file system, which a service periodically checks to see if it needs to send a response.
+false	
+A client sends the server a request message, and the servers sends back a response message.
+true 	
+Clients and services do not communicate with each other.
+false
+####
+Which of the following refers to the construction of a message in a standard format?
+marshaling
+true 	
+unmarshaling
+false 	
+sending
+false 	
+receiving
+false
+####
+In order to set up a secure communication with a web server, a web browser can contact a certificate authority to help authenticate the browser to the server and vice/versa. Which of the following architectures is this situation an example of?	
+A service that interacts with multiple clients.
+false 	
+A client that interacts with multiple services.
+false	
+A trusted intermediary.
+true 	
+A peer-to-peer network.
+false
+####
+What is the primary advantage of virtualization over a traditional client/service organization?	
+Virtualization reduces the propagation of errors.
+false 	
+Virtualization provides better security.
+false 	
+Virtualization provides better fault tolerance.
+false	
+Virtualization does not require one physical machine for each module.
+true
+####
+Which of the following virtualization methods is used by both threads and virtual memory?
+Multiplexing.
+true 	
+Aggregation.
+false 	
+Emulation.
+false 	
+None of the above.
+false
+####
+What is the advantage of implementing a module with multiple threads? 	
+The module is simpler to implement.
+false 	
+With multiple threads, a module can not become deadlocked.
+false	
+It allows computations to take place at the same time as high latency operations.
+true 	
+Multithreaded programs are esier to debug.
+false
+####
+Which of the following abstractions virtualizes a processor?
+A thread.
+true 	
+Virtual memory.
+false 	
+A bounded buffer.
+false 	
+A virtual machine.
+false
+####
+What does a memory management unit do? 	
+It manages the creation, switching, and deallocation of threads.
+false
+It translates virtual addresses into physical addresses.
+true 	
+It provides a means of communication between threads.
+false 	
+It hands requests to access files.
+false
+####
+Which operations result in the calling thread being forced to wait?	
+Sending a message to an empty buffer and receiving a message from a full buffer.
+false 	
+Sending a message to an empty buffer and receiving a message from an empty buffer.
+false 	
+Sending a message to a full buffer and receiving a message from a full buffer.
+false	
+Sending a message to a full buffer and receiving a message from an empty buffer.
+true
+####
+In a multi-stage system with serial requests, which of the following best describes the bound on the throughput of the overall system?	
+The sum of the throughputs of the various stages.
+false	
+The minimum of the throughputs of the various stages.
+true	
+The maximum of the throughputs of the various stages.
+false 	
+None of the above.
+false
+####
+In a multi-stage system with serial requests, which of the following best describes the bound on the latency of the overall system?
+The sum of the latencies of the various stages.
+true 	
+The minimum of the latencies of the various stages.
+false 	
+The maximum of the latencies of the various stages.
+false 	
+None of the above.
+false
+####
+Which of the following metrics is a measurement of the amount of space or time that a resource provides?
+Capacity.
+true 	
+Utilization.
+false 	
+Latency.
+false 	
+Throughput.
+false
+####
+Which of the following metrics is a measurement of the rate of useful work done by a service for a given workload of requests?	
+Capacity.
+false 	
+Utilization.
+false 	
+Latency.
+false
+Throughput.
+true
+####
+Which of the following metrics indicates the time between a request for a service and the response to that request?	
+Capacity.
+false 	
+Utilization.
+false	
+Latency.
+true 	
+Throughput.
+false
+####
+Which of the following metrics indicates the percentage of the capacity of a resource currently being used?	
+Capacity.
+false	
+Utilization.
+true 	
+Latency.
+false 	
+Throughput.
+false
+####
+Introducing concurrency can be an effective way to do which of the following?	
+Reduce latency.
+false 	
+Improve throughput.
+false	
+Both.
+true 	
+Neither.
+false
+####
+Which of the following is not an effective method for dealing with an overloaded service? 	
+Increasing the capacity of the service.
+false	
+Increasing the utilization of the service.
+true 	
+Reducing the load placed on the service.
+false 	
+Grouping, delaying, or anticipating requests.
+false
+####
+Which of the following devices is most likely to be the bottleneck in a computer system? 	
+A processor.
+false	
+A magnetic disk.
+true 	
+Main memory.
+false 	
+The system bus.
+false
+####
+Which of the following disk cache policies is an example of speculation? 	
+Write-through.
+false 	
+Write-behind.
+false 	
+Read-through.
+false	
+Read-ahead.
+true
+####
+Which of the following operations transfers a message from a bounded buffer to the calling thread?	
+ALLOCATE_BOUNDED_BUFFER
+false 	
+DEALLOCATE_BOUNDED_BUFFER
+false 	
+SEND
+false	
+RECEIVE
+true
+####
+Which of the following operations is performed when a buffer is no longer needed?	
+ALLOCATE_BOUNDED_BUFFER
+false	
+DEALLOCATE_BOUNDED_BUFFER
+true 	
+SEND
+false 	
+RECEIVE
+false
+####
+Which of the following operations creates space in memory for a bounded buffer?	
+ALLOCATE_BOUNDED_BUFFER
+true 	
+DEALLOCATE_BOUNDED_BUFFER
+false 	
+SEND
+false 	
+RECEIVE
+false
+####
+Which of the following operations transfers a message from the calling thread to a bounder buffer?	
+ALLOCATE_BOUNDED_BUFFER
+false 	
+DEALLOCATE_BOUNDED_BUFFER
+false	
+SEND
+true 	
+RECEIVE
+false
+####
+What is sequence coordination? 	
+Coordinating threads so that multiple threads modify data at the same time.
+false	
+Coordinating threads so that an event in one thread precedes and event in another thread.
+true 	
+Coordinating threads so they can take turns running on the same processor.
+false 	
+Coordinating threads so that one thread terminates before another thread is created.
+false
+####
+Which of the following is not the case in a correct solution to the producer/consumer problem? 	
+The producer must add a message to an empty buffer before the consumer can remove a message.
+false 	
+The consumer must remove a message from a full buffer before the producer can add a message.
+false	
+More than one thread can access the buffer at the same time.
+true 	
+The producer and consumer are implemented as separate threads.
+false
+####
+In the implementation of a bounded buffer, which of the following variables are assigned the value of 0 when the buffer is created? 	
+The in variable.
+false 	
+The out variable.
+false	
+Both.
+true	
+Neither.
+false
+####
+In the implementation of a bounded buffer with space for n messages, which of the following conditions indicates that the buffer is full?	
+buffer.in - buffer.out = n
+true
+buffer.in - buffer.out = 0
+false 	
+buffer.in + buffer.out = n
+false 	
+buffer.in + buffer.out = 0
+false
+####
+In the implementation of a bounded buffer with space for n messages, which of the following conditions indicates that the buffer is empty?
+buffer.in - buffer.out = n **
+false
+buffer.in - buffer.out = 0 **
+true 	
+buffer.in + buffer.out = n **
+false
+buffer.in + buffer.out = 0 **
+false
+####
+What is a race condition? 	
+A situation in which no thread can make progress until one of the threads stops waiting.
+false 	
+A situation in which multiple threads run simultaneously without interfering with each other.
+false	
+A situation where data has been corrupted due to the order of thread operations.
+true 	
+A situation where two or more threads take turns accessing a processor.
+false
+####
+Given two sending threads A and B and a bounded buffer without locks, which of the following situations results in a race condition?	
+Thread A completes its SEND operation before Thread B begins its SEND operation.
+false 	
+Thread B completes its SEND operation before Thread A begins its SEND operation.
+false	
+Thread A determines that the buffer is not full, thread B does the same, then both threads store their message at the same position.
+true 	
+Thread A determines that the buffer is not full, thread B does the same, thread A stores its message and increments the in variable, then thread B stores its message in the next spot and increments the in variable.
+false
+####
+A lock mechanism is most commonly used to avoid which of the following conditions? 	
+Deadlock.
+false	
+Livelock.
+false 	
+Poor utilization.
+false	
+A race condition.
+true
+####
+Which of the following operations will never block the caller? 	
+SEND a message to a bounded buffer.
+false 	
+RECEIVE a message from a bounded buffer.
+false 	
+ACQUIRE a lock.
+false	
+RELEASE a lock.
+true
+####
+Why does the SEND procedure in a bounded buffer RELEASE the buffer's lock, then immediately attempt to ACQUIRE it again after determining the buffer is full? 	
+To avoid a race condition.
+false	
+To give another thread the opportunity to remove a message from the buffer.
+true 	
+To give another thread the opportunity to add a message to the buffer.
+false 	
+To guarantee exclusive access of the calling thread to the buffer.
+false
+####
+What does a lock protocol require?	
+All threads using a lock must only operate on shared variables if the lock has been acquired.
+true 	
+All threads using a lock must release the lock before acquiring another lock.
+false 	
+A thread must acquire all of the locks it plans to use before releasing any of them.
+false 	
+Multiple threads may acquire the same lock at the same time.
+false
+####
+What is deadlock?	
+A situation in which no thread can make progress until one of the threads stops waiting.
+true 	
+A situation in which multiple threads run simultaneously without interfering with each other.
+false 	
+A situation where data has been corrupted due to the order of thread operations.
+false 	
+A situation where two or more threads take turns accessing a processor.
+false
+####
+Which of the following is not true about a waits-for graph? 	
+The nodes in the graph represent threads and locks (or other resources.)
+false 	
+An arrow from a thread to a lock means that the thread is waiting to acquire the lock.
+false 	
+An arrow from a lock to a thread means that the lock has been acquired by the thread.
+false	
+There is a deadlock if and only if there are no cycles in the graph.
+true
+####
+Which of the following is not one of the four necessary conditions of deadlock? 	
+Cycles are possible in a waits-for graph of threads and locks.
+false 	
+Locks are mutually exclusive.
+false	
+Race conditions can occur when threads attempt to acquire locks.
+true 	
+A thread can hold a lock while waiting to acquire another lock.
+false
+####
+In the dining philosophers problem, what situation may arise if each philosopher tries to pick up the lower-numbered fork first?	
+Deadlock.
+false 	
+Livelock.
+false	
+Poor utilization.
+true 	
+A race condition.
+false
+####
+In the dining philosophers problem, what situation may arise if each philosopher tries to pick up the left fork first, drops the left fork and starts over if the right fork is in use, and picks up the right fork if it is not in use?	
+Deadlock.
+false	
+Livelock.
+true 	
+Poor utilization.
+false 	
+A race condition.
+false
+####
+How does a memory manager with multiple domains per thread help to enforce modularity?	
+The call stack of a program can be private to a thread.
+false 	
+The text of the program can be stored in a read-only domain.
+false 	
+A bounded buffer can be shared between two threads.
+false	
+All.
+true
+####
+What is the difference between kernel mode and user mode?	
+In kernel mode a thread may execute privileged operations that can not be executed in user mode.
+true 	
+In user mode a thread may execute privileged operations that can not be executed in kernel mode.
+false 	
+The call stack is never used in kernel mode.
+false 	
+There is no difference.
+false
+####
+What is the primary disadvantage of giving multiple threads direct access all of the physical memory?	
+It is not possible for the threads to share data, such as a bounded buffer.
+false 	
+A thread would have to search through a larger amount of space to find data.
+false 	
+Shared memory make it impossible to do sequence coordination leading to race conditions.
+false	
+Threads are not protected from interference from other threads.
+true
+####
+In a domain-based memory system, what is the responsibility of the memory management unit or MMU?
+The MMU checks if each memory reference is within the domain.
+true 	
+The MMU translates virtual addresses to physical address.
+false 	
+The MMU translates physical addresses to virtual addresses.
+false 	
+The MMU allocates and deallocates memory.
+false
+####
+Which of the following is not considered part of the kernel? 	
+Threads running in kernel mode.
+false 	
+Data structures used for memory management.
+false	
+Code in memory for applications.
+true 	
+Code in memory to do memory managment operations.
+false
+####
+In a domain-based memory scheme where threads can have multiple domains, which of the following domains should be read-only?	
+Text.
+true 	
+Data.
+false 	
+Stack.
+false 	
+A bounded buffer.
+false
+####
+Which of the following operations does not involve a supervisor call instruction? 	
+Adding memory to a running program.
+false 	
+Accessing a file on disk.
+false 	
+Reading data from the console.
+false	
+Adding two numbers stored in registers.
+true
+####
+Which of the following is not a property of virtual memory?  	
+The function mapping virtual addresses to physical addresses is implemented as a table.
+false 	
+Virtual addresses are grouped by page.
+false 	
+Physical addresses are grouped by page frame.
+true	
+Every physical address has a corresponding virtual address.
+false
+####
+What is a Translation Lookaside Buffer (TLB)?	
+A means of communication between threads.
+false 	
+A software structure that helps improve peformance in a virtual memory system.
+false	
+A hardware structure that helps improve performance in a virtual memory system.
+true 	
+A table that maps page numbers to page frame numbers.
+false
+####
+Why is a virtual address space broken into pages?	
+If the table used for translation had an entry for every virtual address it would be too large to fit in memory.
+true 	
+So that frame numbers can be easily translated into page numbers.
+false 	
+A page number takes up a single word in memory.
+false 	
+Physical memory can only store one page at a time.
+false
+####
+If the size of a page is 8KB, how many bits are required in a virtual address to store an offset within the page? 	
+11
+false 	
+12
+false	
+13
+true 	
+14
+false
+####
+What is the difference between a thread and a process? 	
+A thread involves a program being executed in memory, a process does not.
+false 	
+Threads can share memory, processes can not.
+false 	
+The address for the page map of a process is stored in the Page Map Address Register or PMAR. A thread does not need access to a page table.
+false	
+Each process has its own virtual memory. Multiple threads may share the same virtual memory.
+true
+####
+What is the difference between a virtual address and a physical address? 	
+A virtual address is used to load data while a physical address is used to load an instruction.
+false 	
+A virtual address is used to load an instruction while a physical address is used to load data.
+false	
+A virtual address is used by a running thread while a physical address is a bus address for a memory cell or device register.
+true 	
+A virtual address is a bus address for a memory cell or device register while a physical address is used by a running thread.
+false
+####
+In a system with 32-bit virtual addresses where the offset takes up 12 bits, how many possible page numbers are there? 	
+2^12
+false	
+2^20
+true 	
+2^32
+false 	
+2^64
+false
+####
+Which of the following best describes how a cache uses a smaller, faster primary memory device and a larger, slower secondary memory device? 	
+A cache uses the primary memory device exclusively.
+false 	
+A cache uses the secondary memory device exclusively.
+false 	
+A cache uses the interface for the primary device, with the secondary device providing additional capacity.
+false	
+A cache uses the interface for the secondary device, with the primary device providing lower latency.
+true
+####
+In what situation is a page fault generated? 	
+The translation of a page number to a frame number is in the TLB.
+false 	
+The translation of a page number to a frame number is not in the TLB.
+false 	
+The requested page is stored in a page frame in main memory.
+false	
+The requested page is not stored in a page frame in main memory.
+true
+####
+Which of the following page replacement algorithms provides the best performance? 	
+FIFO
+false	
+OPT
+true 	
+LRU
+false
+####
+Which of the following page replacement algorithms can be implemented using a queue?	
+FIFO
+true 	
+OPT
+false 	
+LRU
+true
+####
+Which of the following best describes how virtual memory uses a smaller, faster primary memory device and a larger, slower secondary memory device? 	
+A virtual memory uses the primary memory device exclusively.
+false 	
+A virtual memory uses the secondary memory device exclusively.
+false	
+A virtual memory uses the interface for the primary device, with the secondary device providing additional capacity.
+true
+A virtual memory uses the interface for the secondary device, with the primary device providing lower latency.
+false
+####
+Which bit in a page table entry is set when a page is modified? 	
+The resident bit.
+false 	
+The referenced bit.
+false	
+The dirty bit.
+true 	
+None of these.
+false
+####
+Which of the following thread states indicates that a thread is ready to run, but is not currently running?	
+RUNNING.
+false	
+RUNNABLE.
+true 	
+WAITING.
+false 	
+FREE.
+false
+####
+When a thread exits, what should the state field of the thread table entry be set to? 	
+RUNNING.
+false 	
+RUNNABLE.
+false 	
+WAITING.
+false	
+FREE
+true
+####
+What does the YIELD operation do?	
+It saves the state of the calling thread and invokes the scheduler to choose a new thread to run on the processor.
+true 	
+It terminates the calling thread.
+false 	
+It put the thread into a waiting state until another thread notifies it that it can start running again.
+false 	
+It makes the thread sleep for a predetermined amount of time.
+false
+####
+What is the main advantage of preemptive scheduling over non-preemptive scheduling?	
+A thread stuck in a loop won't prevent other threads from running.
+true 	
+Preemptive scheduling is simpler to implement.
+false 	
+Threads are never interrupted.
+false 	
+Multiple threads can run on the same processor.
+false
+####
+What is the difference between switching to a thread that is part of the same process as the current thread, and switching to a thread that is part of a different process than the current thread?	
+If the new thread is part of a different process than the current thread, it can not be run on the same processor.
+false	
+If the new thread is part of a different process than the current thread, the PMAR must be set to the new thread's page table.
+true 	
+If the new thread is part of a different process, we don't have to restore its stack pointer.
+false 	
+If the new thread is part of a different process, the old thread must be terminated.
+false
+####
+When a processor is dispatched to a thread, what should the state field of its thread table entry be set to?
+RUNNING.
+true 	
+RUNNABLE.
+false 	
+WAITING.
+false 	
+FREE
+false
+####
+What does the EXIT_THREAD operation do? 	
+It saves the state of the calling thread and invokes the scheduler to choose a new thread to run on the processor.
+false	
+It terminates the calling thread.
+true 	
+It put the thread into a waiting state until another thread notifies it that it can start running again.
+false 	
+It makes the thread sleep for a predetermined amount of time.
+false
+####
+Which of the following registers needs to have its value stored in the thread table when a thread calls YIELD?	
+The stack pointer (SP)
+true 	
+The program counter (PC)
+false 	
+The CPU identifier (CPUID)
+false 	
+None of these.
+false
+####
+What is the difference between a thread-layer thread and a processor-layer thread? 	
+A thread-layer thread uses a page table, a processor-layer thread does not.
+false 	
+A processor-layer thread uses a page table, a thread-layer thread does not.
+false 	
+A thread-layer thread is used to schedule processor-layer threads on a processor.
+false	
+A processor-layer thread is used to scheduled thread-layer threads on a processor.
+true
+####
+What structure in memory needs to be deallocated when a thread exits? 	
+The thread table.
+false 	
+The processor table.
+false	
+The thread's call stack.
+true 	
+A bounded buffer.
+false
+####
+If the WAIT and NOTIFY operations are implemented using only locks, what happens if a sender calls NOTIFY before a receiver calls WAIT? 	
+The notification is received and the receiver stops waiting.
+false	
+The notification is not received and the receiver does not stop waiting.
+true 	
+The notification is received and the sender stops waiting.
+false 	
+The notification is not received and the sender does not stop waiting.
+false
+####
+What do semaphores, monitors, eventcounts, and sequencers have in common? 	
+None of them can be used to implement a bounded buffer.
+false 	
+They all automatically acquire a lock at the beginning of a method of a shared object.
+false 	
+They all have race conditions.
+false	
+They all support an operation that can make the caller wait.
+true
+####
+What is the difference between the AWAIT operation used with eventcounts and the WAIT operation used with condition variables? 	
+AWAIT uses polling while WAIT uses signalling.
+false 	
+WAIT uses polling while AWAIT uses signalling.
+false	
+AWAIT only causes the calling thread to wait if the eventcount does not exceed a certain value.
+true 	
+WAIT only causes the calling thread to wait if the condition variable does not exceed a certain value.
+false
+####
+Which of the following thread states refers to a thread that is not currently running and is not yet ready to resume running? 	
+FREE
+false 	
+RUNNING
+false 	
+RUNNABLE
+false	
+WAITING
+true
+####
+If a thread is in the WAITING state and the event it has been waiting for has occurred, what should the thread state be changed to? 	
+FREE
+false 	
+RUNNING
+false	
+RUNNABLE
+true 	
+WAITING
+false
+####
+Which of the following job scheduling algorithms uses preemption to assign time slices to jobs? 	
+First-come, first-served.
+false 	
+Shortest job first.
+false	
+Round-robin.
+true 	
+Priority.
+false
+####
+Which of the following job scheduling algorithms suffers from the convoy effect?	
+First-come, first-served.
+true 	
+Shortest job first.
+false 	
+Round-robin.
+false 	
+Priority.
+false
+####
+Which of the following job scheduling algorithms minimizes overall waiting time? 	
+First-come, first-served.
+false	
+Shortest job first.
+true 	
+Round-robin.
+false 	
+Priority.
+false
+####
+Which of the following job scheduling algorithms relies on values assigned to indicate jobs that are more important? 	
+First-come, first-served.
+false 	
+Shortest job first.
+false 	
+Round-robin.
+false	
+Priority.
+true
+####
+Which of the following metrics describes the time between the arrival of a request and the production of output?	
+Turnaround time.
+false	
+Response time.
+true 	
+Waiting time.
+false 	
+Fairness.
+false
+####
